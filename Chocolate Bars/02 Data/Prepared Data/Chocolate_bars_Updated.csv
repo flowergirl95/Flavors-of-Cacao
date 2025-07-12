@@ -1,0 +1,1796 @@
+,Company  (Maker-if known),ReviewDate,CocoaPercent,Location,Rating,Bean_Type,BroadOrigin,Cluster,ClusterColor
+0,A. Morin,2016,63.0,France,3.75,Unknown,Sao Tome,0,pink
+1,A. Morin,2015,70.0,France,2.75,Unknown,Togo,1,purple
+2,A. Morin,2015,70.0,France,3.0,Unknown,Togo,1,purple
+3,A. Morin,2015,70.0,France,3.5,Unknown,Togo,0,pink
+4,A. Morin,2015,70.0,France,3.5,Unknown,Peru,0,pink
+5,A. Morin,2014,70.0,France,2.75,Criollo,Venezuela,1,purple
+6,A. Morin,2014,70.0,France,3.5,Unknown,Cuba,0,pink
+7,A. Morin,2014,70.0,France,3.5,Criollo,Venezuela,0,pink
+8,A. Morin,2014,70.0,France,3.75,Criollo,Venezuela,0,pink
+9,A. Morin,2014,70.0,France,4.0,Unknown,Peru,0,pink
+10,A. Morin,2013,70.0,France,2.75,Unknown,Panama,1,purple
+11,A. Morin,2013,70.0,France,3.0,Criollo,Madagascar,1,purple
+12,A. Morin,2013,70.0,France,3.25,Unknown,Brazil,0,pink
+13,A. Morin,2013,70.0,France,3.75,Unknown,Ecuador,0,pink
+14,A. Morin,2013,70.0,France,2.75,Unknown,Colombia,1,purple
+15,A. Morin,2013,70.0,France,3.0,Unknown,Burma,1,purple
+16,A. Morin,2013,70.0,France,3.25,Unknown,Papua New Guinea,0,pink
+17,A. Morin,2013,70.0,France,4.0,Trinitario,Venezuela,0,pink
+18,A. Morin,2013,70.0,France,3.25,Unknown,Peru,0,pink
+19,A. Morin,2013,70.0,France,3.5,Unknown,Peru,0,pink
+20,A. Morin,2013,63.0,France,4.0,Unknown,Peru,0,pink
+21,A. Morin,2012,70.0,France,3.5,Unknown,Bolivia,0,pink
+22,A. Morin,2012,63.0,France,3.75,Unknown,Peru,0,pink
+23,Acalli,2015,70.0,U.S.A.,3.75,Unknown,Peru,0,pink
+24,Acalli,2015,70.0,U.S.A.,3.75,Criollo,Peru,0,pink
+25,Adi,2011,60.0,Fiji,2.75,Trinitario,Fiji,1,purple
+26,Adi,2011,80.0,Fiji,3.25,Trinitario,Fiji,2,dark purple
+27,Adi,2011,88.0,Fiji,3.5,Trinitario,Fiji,2,dark purple
+28,Adi,2011,72.0,Fiji,3.5,Trinitario,Fiji,0,pink
+29,Aequare (Gianduja),2009,55.0,Ecuador,2.75,Forastero (Arriba),Ecuador,1,purple
+30,Aequare (Gianduja),2009,70.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1,purple
+31,Ah Cacao,2009,70.0,Mexico,3.0,Criollo,Mexico,1,purple
+32,Akesson's (Pralus),2011,75.0,Switzerland,3.75,Trinitario,Indonesia,0,pink
+33,Akesson's (Pralus),2010,75.0,Switzerland,2.75,Criollo,Madagascar,1,purple
+34,Akesson's (Pralus),2010,75.0,Switzerland,2.75,Forastero,Brazil,1,purple
+35,Alain Ducasse,2014,65.0,France,2.75,Trinitario,Trinidad,1,purple
+36,Alain Ducasse,2014,75.0,France,2.75,Trinitario,Vietnam,1,purple
+37,Alain Ducasse,2014,75.0,France,3.0,Trinitario,Madagascar,1,purple
+38,Alain Ducasse,2013,75.0,France,2.5,Trinitario,Venezuela,1,purple
+39,Alain Ducasse,2013,75.0,France,2.5,Unknown,Peru,1,purple
+40,Alexandre,2017,70.0,Netherlands,3.5,Forastero (Nacional),Ecuador,0,pink
+41,Alexandre,2017,70.0,Netherlands,3.5,"Criollo, Trinitario",Nicaragua,0,pink
+42,Alexandre,2017,70.0,Netherlands,3.5,Trinitario,Vietnam,0,pink
+43,Alexandre,2017,70.0,Netherlands,3.5,Forastero,Tanzania,0,pink
+44,Altus aka Cao Artisan,2016,60.0,U.S.A.,2.75,Unknown,Nicaragua,1,purple
+45,Altus aka Cao Artisan,2016,60.0,U.S.A.,3.0,Unknown,Peru,1,purple
+46,Altus aka Cao Artisan,2016,60.0,U.S.A.,2.5,Unknown,Bolivia,1,purple
+47,Altus aka Cao Artisan,2016,60.0,U.S.A.,2.5,Unknown,Peru,1,purple
+48,Altus aka Cao Artisan,2016,60.0,U.S.A.,2.75,Unknown,Ecuador,1,purple
+49,Altus aka Cao Artisan,2013,60.0,U.S.A.,2.5,Unknown,Venezuela,1,purple
+50,Altus aka Cao Artisan,2013,60.0,U.S.A.,3.0,Trinitario,Dominican Republic,1,purple
+51,Altus aka Cao Artisan,2013,80.0,U.S.A.,3.25,Unknown,Bolivia,2,dark purple
+52,Altus aka Cao Artisan,2013,60.0,U.S.A.,3.0,Unknown,Bolivia,1,purple
+53,Altus aka Cao Artisan,2013,60.0,U.S.A.,3.25,Unknown,Peru,0,pink
+54,Amano,2011,70.0,U.S.A.,4.0,Unknown,Papua New Guinea,0,pink
+55,Amano,2010,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+56,Amano,2010,70.0,U.S.A.,4.0,Unknown,Ecuador,0,pink
+57,Amano,2010,70.0,U.S.A.,3.0,Trinitario,Venezuela,1,purple
+58,Amano,2009,70.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+59,Amano,2008,70.0,U.S.A.,2.75,Unknown,Indonesia,1,purple
+60,Amano,2007,70.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+61,Amano,2007,70.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+62,Amano,2007,70.0,U.S.A.,3.75,Criollo,Venezuela,0,pink
+63,Amatller (Simon Coll),2009,70.0,Spain,3.0,Forastero,Ghana,1,purple
+64,Amatller (Simon Coll),2009,70.0,Spain,2.75,Unknown,Ecuador,1,purple
+65,Amatller (Simon Coll),2009,85.0,Spain,2.75,Unknown,Ecuador,2,dark purple
+66,Amatller (Simon Coll),2009,85.0,Spain,3.0,Forastero,Ghana,2,dark purple
+67,Amazona,2013,72.0,Peru,3.25,Unknown,Peru,0,pink
+68,Amazona,2013,73.0,Peru,3.5,Trinitario,Peru,0,pink
+69,Ambrosia,2015,64.0,Canada,3.0,Trinitario,Belize,1,purple
+70,Ambrosia,2015,66.0,Canada,3.25,Trinitario,Madagascar,0,pink
+71,Ambrosia,2015,75.0,Canada,3.25,Unknown,Dominican Republic,0,pink
+72,Ambrosia,2015,63.0,Canada,3.25,Unknown,Papua New Guinea,0,pink
+73,Ambrosia,2015,70.0,Canada,3.25,Unknown,Venezuela,0,pink
+74,Ambrosia,2015,68.0,Canada,3.5,Unknown,Peru,0,pink
+75,Amedei,2012,70.0,Italy,3.75,Unknown,Peru,0,pink
+76,Amedei,2007,70.0,Italy,4.0,Criollo (Porcelana),Venezuela,0,pink
+77,Amedei,2007,75.0,Italy,4.0,Blend,Unknown,0,pink
+78,Amedei,2007,70.0,Italy,5.0,Trinitario,Venezuela,0,pink
+79,Amedei,2007,70.0,Italy,3.0,Trinitario,Ecuador,1,purple
+80,Amedei,2007,70.0,Italy,3.0,Trinitario,Jamaica,1,purple
+81,Amedei,2007,70.0,Italy,3.5,Trinitario,Grenada,0,pink
+82,Amedei,2007,70.0,Italy,3.75,Trinitario (85% Criollo),Venezuela,0,pink
+83,Amedei,2007,70.0,Italy,4.0,Trinitario (85% Criollo),Madagascar,0,pink
+84,Amedei,2007,70.0,Italy,3.5,Trinitario,Trinidad,0,pink
+85,Amedei,2007,63.0,Italy,3.5,Blend,Unknown,0,pink
+86,Amedei,2006,70.0,Italy,5.0,Blend,Unknown,0,pink
+87,Amedei,2006,66.0,Italy,4.0,Blend,Unknown,0,pink
+88,AMMA,2013,75.0,Brazil,3.25,Forastero (Catongo),Brazil,0,pink
+89,AMMA,2010,85.0,Brazil,2.75,Forastero (Parazinho),Brazil,2,dark purple
+90,AMMA,2010,50.0,Brazil,3.75,Forastero (Parazinho),Brazil,0,pink
+91,AMMA,2010,75.0,Brazil,3.75,Forastero (Parazinho),Brazil,0,pink
+92,AMMA,2010,60.0,Brazil,4.0,Forastero (Parazinho),Brazil,0,pink
+93,Anahata,2014,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+94,Animas,2016,75.0,U.S.A.,3.5,Unknown,Bolivia,0,pink
+95,Ara,2014,75.0,France,3.0,Trinitario,Madagascar,1,purple
+96,Ara,2014,72.0,France,2.5,Unknown,Mexico,1,purple
+97,Ara,2014,75.0,France,2.75,Unknown,Ecuador,1,purple
+98,Ara,2014,75.0,France,3.0,Unknown,Venezuela,1,purple
+99,Arete,2016,70.0,U.S.A.,3.5,Trinitario,Trinidad,0,pink
+100,Arete,2016,70.0,U.S.A.,3.75,Unknown,Tanzania,0,pink
+101,Arete,2016,73.0,U.S.A.,3.5,Trinitario,Vietnam,0,pink
+102,Arete,2016,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+103,Arete,2016,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+104,Arete,2016,70.0,U.S.A.,3.5,Unknown,Guatemala,0,pink
+105,Arete,2016,70.0,U.S.A.,3.75,Unknown,Nicaragua,0,pink
+106,Arete,2016,70.0,U.S.A.,3.5,Unknown,Honduras,0,pink
+107,Arete,2016,70.0,U.S.A.,4.0,Unknown,Costa Rica,0,pink
+108,Arete,2016,70.0,U.S.A.,4.0,Forastero (Nacional),Peru,0,pink
+109,Arete,2016,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+110,Arete,2016,70.0,U.S.A.,3.25,Unknown,Fiji,0,pink
+111,Arete,2016,73.0,U.S.A.,3.25,Unknown,Vietnam,0,pink
+112,Arete,2015,70.0,U.S.A.,3.5,Unknown,Brazil,0,pink
+113,Arete,2015,68.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+114,Arete,2015,70.0,U.S.A.,3.75,Forastero (Nacional),Ecuador,0,pink
+115,Arete,2015,70.0,U.S.A.,3.5,Unknown,Domincan Republic,0,pink
+116,Arete,2015,70.0,U.S.A.,3.75,Trinitario,Belize,0,pink
+117,Arete,2015,70.0,U.S.A.,4.0,"Criollo, Trinitario",Nicaragua,0,pink
+118,Arete,2015,75.0,U.S.A.,2.75,Unknown,Brazil,1,purple
+119,Arete,2015,70.0,U.S.A.,3.25,Unknown,Guatemala,0,pink
+120,Arete,2015,75.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+121,Artisan du Chocolat,2013,72.0,U.K.,3.25,Trinitario,Trinidad,0,pink
+122,Artisan du Chocolat,2012,72.0,U.K.,3.75,Unknown,Colombia,0,pink
+123,Artisan du Chocolat,2011,72.0,U.K.,4.0,Unknown,Haiti,0,pink
+124,Artisan du Chocolat,2011,72.0,U.K.,2.75,Unknown,Panama,1,purple
+125,Artisan du Chocolat,2010,100.0,U.K.,1.75,Unknown,Venezuela,2,dark purple
+126,Artisan du Chocolat,2010,72.0,U.K.,3.75,Trinitario,Jamaica,0,pink
+127,Artisan du Chocolat,2010,72.0,U.K.,3.25,Unknown,Costa Rica,0,pink
+128,Artisan du Chocolat,2010,72.0,U.K.,3.25,Trinitario,Vietnam,0,pink
+129,Artisan du Chocolat,2010,72.0,U.K.,3.5,Unknown,Indonesia,0,pink
+130,Artisan du Chocolat,2009,75.0,U.K.,2.5,"Criollo, Trinitario",Venezuela,1,purple
+131,Artisan du Chocolat,2009,72.0,U.K.,2.75,Trinitario,Indonesia,1,purple
+132,Artisan du Chocolat,2009,72.0,U.K.,1.75,Unknown,Brazil,1,purple
+133,Artisan du Chocolat,2009,80.0,U.K.,3.0,"Criollo, Trinitario",Madagascar,2,dark purple
+134,Artisan du Chocolat,2009,75.0,U.K.,3.0,Criollo,Peru,1,purple
+135,Artisan du Chocolat,2009,72.0,U.K.,3.25,Trinitario,Dominican Republic,0,pink
+136,Artisan du Chocolat,2008,72.0,U.K.,3.75,Forastero,Congo,0,pink
+137,Artisan du Chocolat (Casa Luker),2013,72.0,U.K.,2.75,Trinitario,Colombia,1,purple
+138,Askinosie,2016,68.0,U.S.A.,3.75,Trinitario,Tanzania,0,pink
+139,Askinosie,2011,72.0,U.S.A.,3.75,Trinitario,Tanzania,0,pink
+140,Askinosie,2011,70.0,U.S.A.,3.75,Trinitario,Honduras,0,pink
+141,Askinosie,2009,77.0,U.S.A.,3.75,Trinitario,Philippines,0,pink
+142,Askinosie,2007,75.0,U.S.A.,2.5,Trinitario,Mexico,1,purple
+143,Askinosie,2007,70.0,U.S.A.,3.0,Forastero (Arriba),Ecuador,1,purple
+144,Bahen & Co.,2015,80.0,Australia,3.25,Unknown,Unknown,2,dark purple
+145,Bahen & Co.,2015,70.0,Australia,3.5,Unknown,Papua New Guinea,0,pink
+146,Bahen & Co.,2012,70.0,Australia,3.0,Trinitario,Madagascar,1,purple
+147,Bahen & Co.,2012,70.0,Australia,2.5,Unknown,Brazil,1,purple
+148,Bahen & Co.,2012,70.0,Australia,2.5,Blend,Unknown,1,purple
+149,Bakau,2015,70.0,Peru,2.75,Unknown,Peru,1,purple
+150,Bakau,2015,70.0,Peru,3.5,Unknown,Peru,0,pink
+151,Bar Au Chocolat,2015,70.0,U.S.A.,3.5,Unknown,Brazil,0,pink
+152,Bar Au Chocolat,2014,70.0,U.S.A.,4.0,Forastero (Nacional),Peru,0,pink
+153,Bar Au Chocolat,2012,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+154,Bar Au Chocolat,2012,70.0,U.S.A.,3.5,Unknown,Mexico,0,pink
+155,Bar Au Chocolat,2012,70.0,U.S.A.,3.75,Trinitario,Madagascar,0,pink
+156,Baravelli's,2012,80.0,Wales,2.75,Unknown,Costa Rica,2,dark purple
+157,Batch,2016,65.0,U.S.A.,3.5,Unknown,Domincan Republic,0,pink
+158,Batch,2016,70.0,U.S.A.,3.75,Unknown,Brazil,0,pink
+159,Batch,2016,65.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+160,Beau Cacao,2017,73.0,U.K.,3.0,Unknown,Malaysia,1,purple
+161,Beau Cacao,2017,72.0,U.K.,3.25,Unknown,Malaysia,0,pink
+162,Beehive,2016,80.0,U.S.A.,2.75,Unknown,Brazil,2,dark purple
+163,Beehive,2016,70.0,U.S.A.,2.75,Unknown,Domincan Republic,1,purple
+164,Beehive,2016,70.0,U.S.A.,2.75,Unknown,Ecuador,1,purple
+165,Beehive,2016,90.0,U.S.A.,2.75,Unknown,Ecuador,2,dark purple
+166,Belcolade,2010,64.0,Belgium,2.75,Unknown,Costa Rica,1,purple
+167,Belcolade,2010,64.0,Belgium,2.75,Unknown,Papua New Guinea,1,purple
+168,Belcolade,2010,64.0,Belgium,2.75,Unknown,Peru,1,purple
+169,Belcolade,2010,71.0,Belgium,3.5,Unknown,Ecuador,0,pink
+170,Bellflower,2016,70.0,U.S.A.,3.5,"Criollo, Trinitario",Tanzania,0,pink
+171,Bellflower,2016,70.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+172,Bellflower,2016,70.0,U.S.A.,3.5,Unknown,Domincan Republic,0,pink
+173,Belyzium,2016,83.0,Germany,2.75,Trinitario,Belize,2,dark purple
+174,Belyzium,2016,78.0,Germany,3.0,Trinitario,Belize,2,dark purple
+175,Belyzium,2016,83.0,Germany,3.5,Trinitario,Belize,2,dark purple
+176,Benoit Nihant,2013,74.0,Belgium,3.5,Trinitario,Cuba,0,pink
+177,Benoit Nihant,2013,74.0,Belgium,3.5,Criollo,Venezuela,0,pink
+178,Benoit Nihant,2013,74.0,Belgium,3.5,Criollo,Venezuela,0,pink
+179,Benoit Nihant,2013,73.0,Belgium,4.0,Trinitario,Ecuador,0,pink
+180,Benoit Nihant,2011,72.0,Belgium,4.0,Trinitario,Indonesia,0,pink
+181,Benoit Nihant,2011,72.0,Belgium,3.75,Trinitario,Madagascar,0,pink
+182,Bernachon,2012,55.0,France,2.75,Unknown,Unknown,1,purple
+183,Beschle (Felchlin),2011,64.0,Switzerland,3.0,Trinitario,Madagascar,1,purple
+184,Beschle (Felchlin),2011,88.0,Switzerland,3.0,Criollo,Venezuela,2,dark purple
+185,Beschle (Felchlin),2011,72.0,Switzerland,3.5,Unknown,Venezuela,0,pink
+186,Beschle (Felchlin),2011,72.0,Switzerland,4.0,Unknown,Ecuador,0,pink
+187,Beschle (Felchlin),2010,70.0,Switzerland,3.25,Trinitario,Venezuela,0,pink
+188,Beschle (Felchlin),2010,74.0,Switzerland,3.25,Criollo (Porcelana),Venezuela,0,pink
+189,Beschle (Felchlin),2010,64.0,Switzerland,3.5,Unknown,Indonesia,0,pink
+190,Beschle (Felchlin),2010,72.0,Switzerland,3.5,Unknown,Venezuela,0,pink
+191,Bisou,2015,76.0,U.S.A.,2.5,Unknown,Nicaragua,1,purple
+192,Bisou,2015,76.0,U.S.A.,2.5,Unknown,Costa Rica,1,purple
+193,Bisou,2015,78.0,U.S.A.,2.5,Unknown,Costa Rica,2,dark purple
+194,Bisou,2015,86.0,U.S.A.,3.25,Trinitario,Belize,2,dark purple
+195,Bittersweet Origins,2012,72.0,U.S.A.,3.5,Forastero,Ghana,0,pink
+196,Bittersweet Origins,2010,75.0,U.S.A.,3.25,Unknown,Indonesia,0,pink
+197,Bittersweet Origins,2010,70.0,U.S.A.,3.75,Blend,"Dominican Rep., Bali",0,pink
+198,Bittersweet Origins,2010,65.0,U.S.A.,2.75,Unknown,Indonesia,1,purple
+199,Bittersweet Origins,2010,70.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+200,Bittersweet Origins,2010,78.0,U.S.A.,3.0,Criollo,Venezuela,2,dark purple
+201,Bittersweet Origins,2009,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+202,Bittersweet Origins,2009,65.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+203,Bittersweet Origins,2009,75.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+204,Bittersweet Origins,2009,65.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+205,Bittersweet Origins,2008,71.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+206,Bittersweet Origins,2008,75.0,U.S.A.,3.5,Unknown,Panama,0,pink
+207,Bittersweet Origins,2008,68.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+208,Bittersweet Origins,2008,70.0,U.S.A.,3.0,Forastero,Ghana,1,purple
+209,Black Mountain,2008,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+210,Black Mountain,2008,70.0,U.S.A.,2.75,Trinitario,Venezuela,1,purple
+211,Black Mountain,2008,70.0,U.S.A.,3.0,Unknown,Nicaragua,1,purple
+212,Black River (A. Morin),2014,70.0,U.K.,2.75,Trinitario,Jamaica,1,purple
+213,Blanxart,2013,82.0,Spain,3.5,Forastero,Congo,2,dark purple
+214,Blanxart,2009,72.0,Spain,2.75,Unknown,Unknown,1,purple
+215,Blue Bandana,2016,82.0,U.S.A.,3.5,Trinitario,Madagascar,2,dark purple
+216,Blue Bandana,2016,75.0,U.S.A.,2.75,Unknown,Guatemala,1,purple
+217,Blue Bandana,2016,75.0,U.S.A.,3.5,Unknown,Tanzania,0,pink
+218,Blue Bandana,2016,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+219,Blue Bandana,2012,70.0,U.S.A.,3.5,Unknown,Guatemala,0,pink
+220,Blue Bandana,2012,70.0,U.S.A.,3.75,Trinitario,Madagascar,0,pink
+221,Bonnat,2016,75.0,France,3.5,Unknown,Mexico,0,pink
+222,Bonnat,2014,75.0,France,4.0,Unknown,Brazil,0,pink
+223,Bonnat,2014,75.0,France,3.25,Unknown,Dominican Republic,0,pink
+224,Bonnat,2014,65.0,France,3.75,Unknown,"Venez,Africa,Brasil,Peru,Mex",0,pink
+225,Bonnat,2013,75.0,France,3.5,Unknown,Brazil,0,pink
+226,Bonnat,2013,75.0,France,3.25,Unknown,Gabon,0,pink
+227,Bonnat,2011,75.0,France,3.5,Trinitario,Cuba,0,pink
+228,Bonnat,2011,75.0,France,3.5,Unknown,Peru,0,pink
+229,Bonnat,2011,75.0,France,3.5,Forastero (Nacional),Peru,0,pink
+230,Bonnat,2011,75.0,France,3.75,Unknown,Brazil,0,pink
+231,Bonnat,2011,75.0,France,4.0,Unknown,Haiti,0,pink
+232,Bonnat,2011,75.0,France,4.0,Criollo,Madagascar,0,pink
+233,Bonnat,2011,75.0,France,3.5,Unknown,Brazil,0,pink
+234,Bonnat,2011,75.0,France,3.25,Trinitario,Jamaica,0,pink
+235,Bonnat,2009,75.0,France,3.0,Unknown,Ivory Coast,1,purple
+236,Bonnat,2009,75.0,France,2.75,Criollo,Peru,1,purple
+237,Bonnat,2009,75.0,France,3.0,Criollo,Mexico,1,purple
+238,Bonnat,2009,75.0,France,3.0,Criollo,Mexico,1,purple
+239,Bonnat,2008,75.0,France,4.0,Criollo (Porcelana),Venezuela,0,pink
+240,Bonnat,2007,75.0,France,2.5,Forastero (Arriba),Ecuador,1,purple
+241,Bonnat,2006,75.0,France,3.75,Trinitario,Carribean,0,pink
+242,Bonnat,2006,75.0,France,4.0,Unknown,Venezuela,0,pink
+243,Bonnat,2006,75.0,France,4.0,Criollo,Venezuela,0,pink
+244,Bonnat,2006,75.0,France,4.0,Trinitario,Madagascar,0,pink
+245,Bonnat,2006,100.0,France,1.5,Unknown,Unknown,2,dark purple
+246,Bonnat,2006,75.0,France,3.0,Unknown,Sri Lanka,1,purple
+247,Bonnat,2006,75.0,France,4.0,Trinitario,Venezuela,0,pink
+248,Bouga Cacao (Tulicorp),2009,77.0,Ecuador,3.25,Forastero (Arriba),Ecuador,0,pink
+249,Bouga Cacao (Tulicorp),2009,100.0,Ecuador,1.5,Forastero (Arriba),Ecuador,2,dark purple
+250,Bowler Man,2014,70.0,U.S.A.,2.75,Trinitario,Belize,1,purple
+251,Bowler Man,2014,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+252,Brasstown aka It's Chocolate,2016,70.0,U.S.A.,3.5,Criollo,Venezuela,0,pink
+253,Brasstown aka It's Chocolate,2016,70.0,U.S.A.,3.75,Unknown,Nicaragua,0,pink
+254,Brasstown aka It's Chocolate,2015,68.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+255,Brasstown aka It's Chocolate,2014,70.0,U.S.A.,3.75,Trinitario,Belize,0,pink
+256,Brasstown aka It's Chocolate,2014,70.0,U.S.A.,4.0,Trinitario,Venezuela,0,pink
+257,Brasstown aka It's Chocolate,2013,72.0,U.S.A.,3.0,Trinitario,Dominican Republic,1,purple
+258,Brasstown aka It's Chocolate,2013,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+259,Brasstown aka It's Chocolate,2013,75.0,U.S.A.,3.5,Forastero,Ghana,0,pink
+260,Brasstown aka It's Chocolate,2013,85.0,U.S.A.,3.5,Trinitario,Venezuela,2,dark purple
+261,Brazen,2015,60.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+262,Brazen,2015,80.0,U.S.A.,3.25,Unknown,Dominican Republic,2,dark purple
+263,Brazen,2015,70.0,U.S.A.,3.5,Unknown,Guatemala,0,pink
+264,Brazen,2015,80.0,U.S.A.,2.75,Unknown,Madagascar,2,dark purple
+265,Brazen,2015,80.0,U.S.A.,3.25,Trinitario,Belize,2,dark purple
+266,Brazen,2015,60.0,U.S.A.,3.25,Unknown,Madagascar,0,pink
+267,Breeze Mill,2013,70.0,U.S.A.,3.0,Trinitario,Jamaica,1,purple
+268,Bright,2014,72.0,Australia,3.0,Trinitario,Madagascar,1,purple
+269,Bright,2014,70.0,Australia,3.5,Unknown,Dominican Republic,0,pink
+270,Bright,2014,72.0,Australia,3.5,Unknown,Ecuador,0,pink
+271,Bright,2014,68.0,Australia,2.75,Trinitario,Trinidad,1,purple
+272,Britarev,2015,70.0,Russia,3.25,Unknown,Ecuador,0,pink
+273,Bronx Grrl Chocolate,2013,68.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+274,Burnt Fork Bend,2014,72.0,U.S.A.,3.25,Trinitario,Trinidad,0,pink
+275,Burnt Fork Bend,2014,72.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+276,Burnt Fork Bend,2014,72.0,U.S.A.,3.25,Trinitario,Belize,0,pink
+277,Burnt Fork Bend,2014,72.0,U.S.A.,3.25,Blend,Unknown,0,pink
+278,Burnt Fork Bend,2014,60.0,U.S.A.,2.5,Unknown,Ecuador,1,purple
+279,Cacao Arabuco,2015,70.0,Puerto Rico,2.5,Unknown,Puerto Rico,1,purple
+280,Cacao Atlanta,2014,75.0,U.S.A.,2.5,Criollo,Peru,1,purple
+281,Cacao Atlanta,2010,75.0,U.S.A.,2.5,Unknown,Dominican Republic,1,purple
+282,Cacao Atlanta,2010,75.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+283,Cacao Atlanta,2010,75.0,U.S.A.,2.25,Unknown,Venezuela,1,purple
+284,Cacao Barry,2016,65.0,France,3.5,"Trinitario, Criollo",Haiti,0,pink
+285,Cacao Barry,2010,70.0,France,3.0,Unknown,Dominican Republic,1,purple
+286,Cacao Barry,2008,75.0,France,2.0,Unknown,Tanzania,1,purple
+287,Cacao Barry,2007,72.0,France,2.0,Unknown,Venezuela,1,purple
+288,Cacao Barry,2007,66.0,France,3.0,Unknown,Mexico,1,purple
+289,Cacao de Origen,2015,77.0,Venezuela,3.5,Trinitario,Venezuela,0,pink
+290,Cacao de Origen,2015,75.0,Venezuela,3.25,Trinitario,Venezuela,0,pink
+291,Cacao de Origen,2014,75.0,Venezuela,2.5,Unknown,Venezuela,1,purple
+292,Cacao de Origen,2014,74.0,Venezuela,3.25,Unknown,Venezuela,0,pink
+293,Cacao de Origen,2014,75.0,Venezuela,3.5,Trinitario,Venezuela,0,pink
+294,Cacao de Origen,2014,70.0,Venezuela,3.75,Trinitario,Venezuela,0,pink
+295,Cacao de Origin,2015,74.0,Venezuela,3.25,Unknown,Venezuela,0,pink
+296,Cacao Hunters,2016,71.0,Colombia,3.75,Unknown,Colombia,0,pink
+297,Cacao Hunters,2016,74.0,Colombia,3.75,Unknown,Colombia,0,pink
+298,Cacao Hunters,2015,72.0,Colombia,3.75,Unknown,Colombia,0,pink
+299,Cacao Hunters,2014,64.0,Colombia,3.5,Unknown,Colombia,0,pink
+300,Cacao Hunters,2014,70.0,Colombia,3.5,Unknown,Colombia,0,pink
+301,Cacao Hunters,2014,69.0,Colombia,2.75,Unknown,Colombia,1,purple
+302,Cacao Hunters,2014,70.0,Colombia,3.25,Unknown,Colombia,0,pink
+303,Cacao Market,2016,70.0,U.S.A.,3.5,Trinitario,Honduras,0,pink
+304,Cacao Prieto,2012,72.0,U.S.A.,3.75,Criollo,Dominican Republic,0,pink
+305,Cacao Prieto,2011,72.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+306,Cacao Prieto,2011,66.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+307,Cacao Prieto,2011,65.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+308,Cacao Sampaka,2016,70.0,Spain,3.5,Criollo,Congo,0,pink
+309,Cacao Sampaka,2010,71.0,Spain,3.5,Trinitario,Madagascar,0,pink
+310,Cacao Sampaka,2010,71.0,Spain,3.75,Unknown,Ecuador,0,pink
+311,Cacao Sampaka,2010,71.0,Spain,4.0,Unknown,Papua New Guinea,0,pink
+312,Cacao Sampaka,2010,71.0,Spain,3.25,Trinitario,Grenada,0,pink
+313,Cacao Sampaka,2010,71.0,Spain,3.5,Unknown,Venezuela,0,pink
+314,Cacao Sampaka,2010,77.0,Spain,3.5,Unknown,Venezuela,0,pink
+315,Cacao Sampaka,2009,70.0,Spain,4.0,Criollo,Mexico,0,pink
+316,Cacao Sampaka,2009,70.0,Spain,4.0,Criollo,Mexico,0,pink
+317,Cacao Store,2015,70.0,Japan,3.0,Trinitario,Madagascar,1,purple
+318,Cacao Store,2015,70.0,Japan,3.25,Unknown,Peru,0,pink
+319,Cacao Store,2015,70.0,Japan,3.5,Trinitario,Vietnam,0,pink
+320,Cacaosuyo (Theobroma Inversiones),2013,70.0,Peru,3.25,Unknown,Peru,0,pink
+321,Cacaoyere (Ecuatoriana),2008,63.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0,pink
+322,Cacaoyere (Ecuatoriana),2008,71.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0,pink
+323,Cacaoyere (Ecuatoriana),2008,82.0,Ecuador,2.5,Forastero (Arriba),Ecuador,2,dark purple
+324,Cacaoyere (Ecuatoriana),2008,91.0,Ecuador,1.5,Forastero (Arriba),Ecuador,2,dark purple
+325,Callebaut,2008,60.0,Belgium,2.75,Trinitario,Grenada,1,purple
+326,Callebaut,2007,70.0,Belgium,1.0,Unknown,Ecuador,1,purple
+327,C-Amaro,2014,75.0,Italy,2.5,Unknown,Cuba,1,purple
+328,C-Amaro,2014,72.0,Italy,3.0,Unknown,Dominican Republic,1,purple
+329,C-Amaro,2014,70.0,Italy,3.5,Blend,Unknown,0,pink
+330,C-Amaro,2013,100.0,Italy,3.5,Unknown,Ecuador,2,dark purple
+331,C-Amaro,2012,80.0,Italy,3.0,Unknown,Venezuela,2,dark purple
+332,C-Amaro,2011,78.0,Italy,2.25,Forastero,Sao Tome,1,purple
+333,C-Amaro,2011,70.0,Italy,2.5,Trinitario,Trinidad,1,purple
+334,Cao,2016,75.0,U.S.A.,2.5,Criollo,Venezuela,1,purple
+335,Cao,2016,73.0,U.S.A.,2.75,Unknown,Tanzania,1,purple
+336,Cao,2016,70.0,U.S.A.,3.0,Criollo,Venezuela,1,purple
+337,Cao,2016,75.0,U.S.A.,3.0,Unknown,Bolivia,1,purple
+338,Cao,2016,70.0,U.S.A.,3.25,Trinitario,Brazil,0,pink
+339,Caoni (Tulicorp),2008,77.0,Ecuador,2.0,Forastero (Arriba),Ecuador,1,purple
+340,Caoni (Tulicorp),2008,77.0,Ecuador,2.5,Forastero (Arriba),Ecuador,1,purple
+341,Caoni (Tulicorp),2008,77.0,Ecuador,2.75,Forastero (Arriba),Ecuador,1,purple
+342,Caoni (Tulicorp),2008,55.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1,purple
+343,Caoni (Tulicorp),2008,55.0,Ecuador,3.25,Forastero (Arriba),Ecuador,0,pink
+344,Caoni (Tulicorp),2008,55.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0,pink
+345,Captain Pembleton,2014,70.0,New Zealand,3.5,Trinitario,Papua New Guinea,0,pink
+346,Captain Pembleton,2014,70.0,New Zealand,3.75,Unknown,Papua New Guinea,0,pink
+347,Caribeans,2015,72.0,Costa Rica,3.5,Unknown,Guatemala,0,pink
+348,Caribeans,2015,72.0,Costa Rica,3.25,Unknown,Costa Rica,0,pink
+349,Caribeans,2015,72.0,Costa Rica,3.5,Unknown,Costa Rica,0,pink
+350,Caribeans,2012,72.0,Costa Rica,3.0,Forastero,Costa Rica,1,purple
+351,Caribeans,2012,80.0,Costa Rica,2.75,Forastero,Costa Rica,2,dark purple
+352,Carlotta Chocolat,2016,65.0,Colombia,3.0,Trinitario,Colombia,1,purple
+353,Carlotta Chocolat,2016,65.0,Colombia,3.25,Trinitario,Colombia,0,pink
+354,Carlotta Chocolat,2016,65.0,Colombia,3.25,Trinitario,Colombia,0,pink
+355,Carlotta Chocolat,2016,65.0,Colombia,3.5,Trinitario,Colombia,0,pink
+356,Carlotta Chocolat,2016,65.0,Colombia,3.5,CCN51,Colombia,0,pink
+357,Castronovo,2016,72.0,U.S.A.,4.0,Trinitario,Belize,0,pink
+358,Castronovo,2015,72.0,U.S.A.,3.5,Trinitario,Honduras,0,pink
+359,Castronovo,2015,70.0,U.S.A.,3.75,"Criollo, Trinitario",Domincan Republic,0,pink
+360,Castronovo,2015,72.0,U.S.A.,3.5,Unknown,Venezuela,0,pink
+361,Castronovo,2014,72.0,U.S.A.,3.5,"Criollo, Trinitario",Colombia,0,pink
+362,Castronovo,2014,76.0,U.S.A.,3.5,"Criollo, Trinitario",Colombia,0,pink
+363,Castronovo,2014,70.0,U.S.A.,2.75,Trinitario,Dominican Republic,1,purple
+364,Castronovo,2013,70.0,U.S.A.,3.0,Trinitario,Bolivia,1,purple
+365,Castronovo,2013,73.0,U.S.A.,3.5,Trinitario,Dominican Republic,0,pink
+366,Castronovo,2013,70.0,U.S.A.,2.5,Criollo,Peru,1,purple
+367,Castronovo,2013,70.0,U.S.A.,3.25,Unknown,Venezuela,0,pink
+368,Castronovo,2013,72.0,U.S.A.,3.25,Trinitario,Nicaragua,0,pink
+369,Castronovo,2013,70.0,U.S.A.,2.75,Criollo,Peru,1,purple
+370,Castronovo,2013,72.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+371,Cello,2014,70.0,U.S.A.,2.5,Unknown,Ecuador,1,purple
+372,Cello,2014,70.0,U.S.A.,2.75,Unknown,Peru,1,purple
+373,Cello,2014,70.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+374,Cello,2014,70.0,U.S.A.,3.0,Unknown,Bolivia,1,purple
+375,Cemoi,2009,72.0,France,2.75,Unknown,Ecuador,1,purple
+376,Chaleur B,2014,70.0,Canada,2.75,Forastero,Uganda,1,purple
+377,Charm School,2016,70.0,U.S.A.,3.25,Unknown,Belize,0,pink
+378,Chchukululu (Tulicorp),2010,55.0,Ecuador,2.75,Forastero (Arriba),Ecuador,1,purple
+379,Chchukululu (Tulicorp),2008,75.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1,purple
+380,Chequessett,2014,70.0,U.S.A.,3.5,Unknown,Costa Rica,0,pink
+381,Chloe Chocolat,2011,70.0,France,3.5,Unknown,Unknown,0,pink
+382,Chocablog,2015,70.0,U.K.,3.25,Unknown,Ecuador,0,pink
+383,Choco Del Sol,2014,75.0,Germany,3.0,Trinitario,Belize,1,purple
+384,Choco Del Sol,2014,82.0,Germany,3.25,Trinitario,Belize,2,dark purple
+385,Choco Dong,2015,70.0,South Korea,2.75,Trinitario,Vietnam,1,purple
+386,Choco Dong,2015,70.0,South Korea,3.5,Trinitario,Malaysia,0,pink
+387,Chocolarder,2015,65.0,U.K.,2.5,Criollo,Peru,1,purple
+388,Chocolarder,2015,65.0,U.K.,2.75,Criollo,Peru,1,purple
+389,Chocolarder,2015,80.0,U.K.,2.5,Unknown,Dominican Republic,2,dark purple
+390,Chocola'te,2011,70.0,U.S.A.,3.75,Trinitario,Madagascar,0,pink
+391,Chocola'te,2011,68.0,U.S.A.,3.75,Unknown,Venezuela,0,pink
+392,Chocolate Alchemist-Philly,2016,90.0,U.S.A.,2.5,Unknown,Peru,2,dark purple
+393,Chocolate Alchemist-Philly,2016,80.0,U.S.A.,2.5,Unknown,Unknown,2,dark purple
+394,Chocolate Con Amor,2016,70.0,U.S.A.,2.5,Unknown,Bolivia,1,purple
+395,Chocolate Con Amor,2016,70.0,U.S.A.,2.75,Unknown,Uganda,1,purple
+396,Chocolate Con Amor,2016,60.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+397,Chocolate Con Amor,2016,75.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+398,Chocolate Con Amor,2016,80.0,U.S.A.,3.0,Criollo (Ocumare),Venezuela,2,dark purple
+399,Chocolate Con Amor,2016,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+400,Chocolate Con Amor,2016,80.0,U.S.A.,2.75,Unknown,Nicaragua,2,dark purple
+401,Chocolate Conspiracy,2014,74.0,U.S.A.,2.75,Unknown,Peru,1,purple
+402,Chocolate Makers,2015,75.0,Amsterdam,3.25,Trinitario,Dominican Republic,0,pink
+403,Chocolate Makers,2015,68.0,Amsterdam,3.5,Forastero,Congo,0,pink
+404,Chocolate Makers,2015,80.0,Amsterdam,3.75,Criollo,Peru,0,pink
+405,"Chocolate Tree, The",2015,69.0,Scotland,3.75,Forastero (Nacional),Peru,0,pink
+406,"Chocolate Tree, The",2015,80.0,Scotland,3.75,Trinitario,Venezuela,0,pink
+407,"Chocolate Tree, The",2013,70.0,Scotland,3.75,Forastero (Nacional),Peru,0,pink
+408,"Chocolate Tree, The",2012,82.0,Scotland,2.5,Forastero (Arriba),Ecuador,2,dark purple
+409,"Chocolate Tree, The",2012,68.0,Scotland,2.75,Criollo,Peru,1,purple
+410,"Chocolate Tree, The",2012,72.0,Scotland,3.25,Criollo,Madagascar,0,pink
+411,Chocolats Privilege,2014,70.0,Canada,2.5,Criollo,Mexico,1,purple
+412,ChocoReko,2015,77.0,Japan,3.0,Criollo,Venezuela,1,purple
+413,Chocosol,2011,65.0,Canada,3.25,Unknown,Mexico,0,pink
+414,Chocovic,2010,71.0,Spain,3.25,Criollo,Mexico,0,pink
+415,Chocovic,2010,71.0,Spain,3.5,Trinitario,Madagascar,0,pink
+416,Chocovic,2009,60.0,Spain,3.25,Unknown,Unknown,0,pink
+417,Chocovic,2009,75.0,Spain,3.25,Unknown,Unknown,0,pink
+418,Chocovic,2008,71.0,Spain,3.5,Criollo,Venezuela,0,pink
+419,Chocovic,2007,71.0,Spain,2.5,Forastero (Arriba),Ecuador,1,purple
+420,Chocovic,2007,71.0,Spain,2.5,Trinitario,Grenada,1,purple
+421,Chocovic,2007,70.0,Spain,3.0,Blend,Unknown,1,purple
+422,Chocovivo,2015,65.0,U.S.A.,2.5,Trinitario,Mexico,1,purple
+423,Chocovivo,2015,75.0,U.S.A.,2.5,Trinitario,Mexico,1,purple
+424,Choklat,2009,80.0,Canada,2.5,Criollo,Venezuela,2,dark purple
+425,Choklat,2009,70.0,Canada,2.75,Criollo,Mexico,1,purple
+426,Choklat,2009,70.0,Canada,3.0,Unknown,Brazil,1,purple
+427,Choklat,2009,80.0,Canada,3.0,Unknown,Brazil,2,dark purple
+428,Choklat,2009,70.0,Canada,3.0,Criollo,Venezuela,1,purple
+429,Chokolat Elot (Girard),2013,42.0,Martinique,2.75,Unknown,Martinique,1,purple
+430,Choocsol,2016,75.0,Canada,3.25,Unknown,Mexico,0,pink
+431,Christopher Morel (Felchlin),2011,68.0,Canada,3.75,Forastero (Nacional),Peru,0,pink
+432,Chuao Chocolatier,2009,61.0,U.S.A.,3.0,Criollo,Venezuela,1,purple
+433,Chuao Chocolatier (Pralus),2010,77.0,U.S.A.,2.75,Trinitario,Venezuela,1,purple
+434,Claudio Corallo,2010,73.5,Sao Tome,3.75,Forastero,Sao Tome & Principe,0,pink
+435,Claudio Corallo,2008,80.0,Sao Tome,3.0,Forastero,Sao Tome & Principe,2,dark purple
+436,Claudio Corallo,2008,75.0,Sao Tome,4.0,Forastero,Sao Tome & Principe,0,pink
+437,Claudio Corallo,2008,100.0,Sao Tome,1.0,Forastero,Sao Tome & Principe,2,dark purple
+438,Cloudforest,2015,73.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+439,Coleman & Davis,2015,75.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+440,Compania de Chocolate (Salgado),2010,70.0,Argentina,3.25,Unknown,Venezuela,0,pink
+441,Compania de Chocolate (Salgado),2008,80.0,Argentina,2.75,Trinitario,Venezuela,2,dark purple
+442,Compania de Chocolate (Salgado),2008,72.0,Argentina,3.25,Unknown,Bolivia,0,pink
+443,Compania de Chocolate (Salgado),2008,70.0,Argentina,3.75,Criollo,Venezuela,0,pink
+444,Compania de Chocolate (Salgado),2008,88.0,Argentina,2.75,Forastero (Nacional),Ecuador,2,dark purple
+445,Condor,2015,76.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+446,Confluence,2016,78.0,U.S.A.,2.75,Trinitario,Vietnam,2,dark purple
+447,Coppeneur,2013,65.0,Germany,3.25,Forastero (Nacional),Ecuador,0,pink
+448,Coppeneur,2012,85.0,Germany,3.5,Forastero,Ghana,2,dark purple
+449,Coppeneur,2012,100.0,Germany,1.5,Unknown,Ecuador,2,dark purple
+450,Coppeneur,2012,72.0,Germany,3.75,Forastero,Sao Tome & Principe,0,pink
+451,Coppeneur,2012,70.0,Germany,3.5,Trinitario,Madagascar,0,pink
+452,Coppeneur,2010,72.0,Germany,3.25,Trinitario,Grenada,0,pink
+453,Coppeneur,2010,70.0,Germany,3.0,Trinitario,Venezuela,1,purple
+454,Coppeneur,2010,72.0,Germany,2.5,Nacional,Ecuador,1,purple
+455,Coppeneur,2010,72.0,Germany,3.0,Trinitario,Trinidad,1,purple
+456,Coppeneur,2010,72.0,Germany,3.25,Trinitario,Jamaica,0,pink
+457,Coppeneur,2010,72.0,Germany,3.25,Criollo (Ocumare 61),Venezuela,0,pink
+458,Coppeneur,2009,72.0,Germany,3.0,Criollo,Peru,1,purple
+459,Coppeneur,2009,62.0,Germany,3.25,Criollo,Peru,0,pink
+460,Coppeneur,2009,70.0,Germany,3.5,"Criollo, Trinitario",Venezuela,0,pink
+461,Coppeneur,2009,70.0,Germany,3.75,"Criollo, Trinitario",Venezuela,0,pink
+462,Coppeneur,2008,72.0,Germany,3.0,Criollo,Mexico,1,purple
+463,Coppeneur,2008,72.0,Germany,3.0,Criollo (Porcelana),Venezuela,1,purple
+464,Coppeneur,2007,72.0,Germany,3.0,Trinitario,Madagascar,1,purple
+465,Cote d' Or (Kraft),2006,70.0,Belgium,1.0,Unknown,Unknown,1,purple
+466,Cravve,2014,70.0,Australia,2.5,Forastero,Papua New Guinea,1,purple
+467,Cravve,2014,83.0,Australia,2.75,Trinitario,Vanuatu,2,dark purple
+468,Cravve,2012,75.0,Australia,3.25,Forastero,Tanzania,0,pink
+469,Cravve,2012,65.0,Australia,3.25,Trinitario,Brazil,0,pink
+470,Cravve,2012,67.0,Australia,3.25,Trinitario,Fiji,0,pink
+471,Cravve,2012,64.0,Australia,3.25,Trinitario,Vanuatu,0,pink
+472,Cravve,2012,75.0,Australia,3.5,Forastero,Papua New Guinea,0,pink
+473,Creo,2016,85.0,U.S.A.,3.25,Forastero (Nacional),Ecuador,2,dark purple
+474,Creo,2016,73.0,U.S.A.,3.75,Forastero (Nacional),Ecuador,0,pink
+475,Daintree,2015,70.0,Australia,2.75,Unknown,Australia,1,purple
+476,Daintree,2011,70.0,Australia,3.25,Unknown,Australia,0,pink
+477,Dalloway,2017,72.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+478,Damson,2015,70.0,U.K.,3.0,Trinitario,Trinidad,1,purple
+479,Damson,2015,70.0,U.K.,3.5,Unknown,Ecuador,0,pink
+480,Damson,2015,70.0,U.K.,2.25,Unknown,Grenada,1,purple
+481,Damson,2015,70.0,U.K.,2.75,Unknown,Nicaragua,1,purple
+482,Dandelion,2016,70.0,U.S.A.,3.75,Unknown,Unknown,0,pink
+483,Dandelion,2015,70.0,U.S.A.,3.0,Trinitario,Belize,1,purple
+484,Dandelion,2014,70.0,U.S.A.,3.5,Trinitario,Belize,0,pink
+485,Dandelion,2014,70.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+486,Dandelion,2014,70.0,U.S.A.,2.75,Unknown,Liberia,1,purple
+487,Dandelion,2014,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+488,Dandelion,2013,70.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+489,Dandelion,2013,70.0,U.S.A.,3.25,Unknown,Venezuela,0,pink
+490,Dandelion,2013,70.0,U.S.A.,3.5,Unknown,Venezuela,0,pink
+491,Dandelion,2013,70.0,U.S.A.,3.5,Unknown,Papua New Guinea,0,pink
+492,Dandelion,2012,70.0,U.S.A.,3.0,Unknown,Costa Rica,1,purple
+493,Dandelion,2012,70.0,U.S.A.,3.25,Unknown,Colombia,0,pink
+494,Dandelion,2012,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+495,Dandelion,2011,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+496,Dandelion,2011,70.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+497,Dandelion,2011,70.0,U.S.A.,3.25,Unknown,Tanzania,0,pink
+498,Danta,2014,82.0,Guatemala,3.25,Unknown,Guatemala,2,dark purple
+499,Danta,2012,75.0,Guatemala,3.0,Trinitario,Venezuela,1,purple
+500,Danta,2012,70.0,Guatemala,3.75,Unknown,Guatemala,0,pink
+501,Danta,2012,70.0,Guatemala,3.75,Trinitario,Madagascar,0,pink
+502,Danta,2012,70.0,Guatemala,4.0,Criollo,Guatemala,0,pink
+503,Danta,2012,70.0,Guatemala,3.25,Unknown,Guatemala,0,pink
+504,Danta,2011,60.0,Guatemala,3.5,Unknown,Guatemala,0,pink
+505,Danta,2009,75.0,Guatemala,3.0,Criollo,Guatemala,1,purple
+506,Danta,2009,60.0,Guatemala,3.25,Criollo,Guatemala,0,pink
+507,DAR,2016,72.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+508,DAR,2016,72.0,U.S.A.,3.0,Trinitario,Vietnam,1,purple
+509,DAR,2016,70.0,U.S.A.,3.25,Unknown,"Ecuador, Costa Rica",0,pink
+510,Dark Forest,2016,75.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+511,Dark Forest,2015,70.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+512,Dark Forest,2015,70.0,U.S.A.,3.25,Unknown,Venezuela,0,pink
+513,Dark Forest,2015,70.0,U.S.A.,3.0,Unknown,Tanzania,1,purple
+514,Dark Forest,2015,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+515,Davis,2013,70.0,U.S.A.,2.5,Forastero,Ghana,1,purple
+516,Davis,2013,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+517,Davis,2013,70.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+518,Davis,2012,58.0,U.S.A.,3.25,Forastero,West Africa,0,pink
+519,De Mendes,2015,72.0,Brazil,3.5,Unknown,Brazil,0,pink
+520,De Mendes,2015,65.0,Brazil,3.5,Unknown,Brazil,0,pink
+521,De Villiers,2016,70.0,South Africa,2.5,Forastero,Uganda,1,purple
+522,De Villiers,2016,70.0,South Africa,3.0,Unknown,Madagascar,1,purple
+523,Dean and Deluca (Belcolade),2007,66.0,U.S.A.,2.5,Trinitario,Madagascar,1,purple
+524,Dean and Deluca (Belcolade),2007,64.0,U.S.A.,3.0,Unknown,Costa Rica,1,purple
+525,Dean and Deluca (Belcolade),2007,71.0,U.S.A.,3.0,Unknown,Ecuador,1,purple
+526,Dean and Deluca (Belcolade),2007,60.0,U.S.A.,3.0,Forastero,Ghana,1,purple
+527,Dean and Deluca (Belcolade),2007,64.0,U.S.A.,3.0,Unknown,Papua New Guinea,1,purple
+528,Dean and Deluca (Belcolade),2007,64.0,U.S.A.,3.0,Unknown,Peru,1,purple
+529,Debauve & Gallais (Michel Cluizel),2009,64.0,France,3.0,Unknown,Papua New Guinea,1,purple
+530,Debauve & Gallais (Michel Cluizel),2008,66.0,France,3.75,Unknown,Venezuela,0,pink
+531,Desbarres,2016,72.0,Canada,2.5,Unknown,Tanzania,1,purple
+532,DeVries,2008,80.0,U.S.A.,2.75,Unknown,Bolivia,2,dark purple
+533,DeVries,2007,77.0,U.S.A.,3.5,Trinitario,Costa Rica,0,pink
+534,DeVries,2007,77.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+535,Dick Taylor,2017,70.0,U.S.A.,3.75,Unknown,Guatemala,0,pink
+536,Dick Taylor,2016,78.0,U.S.A.,3.5,Trinitario,Vietnam,0,pink
+537,Dick Taylor,2015,70.0,U.S.A.,3.75,Unknown,Bolivia,0,pink
+538,Dick Taylor,2014,74.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+539,Dick Taylor,2013,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+540,Dick Taylor,2013,76.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+541,Dick Taylor,2012,75.0,U.S.A.,2.75,Unknown,Bolivia,1,purple
+542,Dick Taylor,2012,72.0,U.S.A.,2.75,Trinitario,Belize,1,purple
+543,Dick Taylor,2011,80.0,U.S.A.,2.75,Trinitario,Madagascar,2,dark purple
+544,Dick Taylor,2011,72.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+545,Dick Taylor,2011,75.0,U.S.A.,2.75,Criollo,Venezuela,1,purple
+546,Dick Taylor,2011,74.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+547,Dick Taylor,2011,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+548,Doble & Bignall,2015,85.0,U.K.,3.0,Unknown,Venezuela,2,dark purple
+549,Doble & Bignall,2014,72.0,U.K.,3.25,Unknown,Panama,0,pink
+550,Doble & Bignall,2014,72.0,U.K.,3.25,Trinitario,Venezuela,0,pink
+551,Doble & Bignall,2014,72.0,U.K.,3.5,"Criollo, Trinitario",Nicaragua,0,pink
+552,Dole (Guittard),2009,70.0,U.S.A.,3.75,Unknown,Hawaii,0,pink
+553,Dolfin (Belcolade),2008,88.0,Belgium,3.0,Forastero,West Africa,2,dark purple
+554,Dolfin (Belcolade),2006,70.0,Belgium,1.5,Unknown,Unknown,1,purple
+555,Domori,2015,70.0,Italy,3.75,Unknown,Ecuador,0,pink
+556,Domori,2015,70.0,Italy,3.75,Criollo (Ocumare 77),Venezuela,0,pink
+557,Domori,2013,100.0,Italy,3.0,Criollo,Venezuela,2,dark purple
+558,Domori,2012,70.0,Italy,3.5,Unknown,Tanzania,0,pink
+559,Domori,2012,70.0,Italy,3.75,Criollo,Venezuela,0,pink
+560,Domori,2011,70.0,Italy,3.5,Criollo,Venezuela,0,pink
+561,Domori,2010,70.0,Italy,3.0,Trinitario,Venezuela,1,purple
+562,Domori,2008,70.0,Italy,3.0,Trinitario,Venezuela,1,purple
+563,Domori,2008,70.0,Italy,3.0,Unknown,Colombia,1,purple
+564,Domori,2008,78.0,Italy,3.5,Blend,Unknown,0,pink
+565,Domori,2008,70.0,Italy,3.75,Blend,Unknown,0,pink
+566,Domori,2007,70.0,Italy,4.0,Criollo (Porcelana),Venezuela,0,pink
+567,Domori,2007,75.0,Italy,3.25,Criollo (Ocumare 61),Venezuela,0,pink
+568,Domori,2007,60.0,Italy,3.25,Trinitario,Venezuela,0,pink
+569,Domori,2007,70.0,Italy,3.5,Trinitario,Madagascar,0,pink
+570,Domori,2007,70.0,Italy,3.5,Criollo,Madagascar,0,pink
+571,Domori,2007,70.0,Italy,3.75,Criollo,Indonesia,0,pink
+572,Domori,2007,70.0,Italy,4.0,Forastero (Arriba),Ecuador,0,pink
+573,Domori,2007,70.0,Italy,4.0,Criollo (Ocumare 67),Venezuela,0,pink
+574,Domori,2006,70.0,Italy,3.0,Trinitario,Venezuela,1,purple
+575,Domori,2006,70.0,Italy,3.25,Trinitario,Peru,0,pink
+576,Domori,2006,70.0,Italy,3.5,Trinitario,Venezuela,0,pink
+577,Dormouse,2016,75.0,U.K.,2.75,Trinitario,Grenada,1,purple
+578,Dormouse,2015,70.0,U.K.,2.5,Trinitario,Venezuela,1,purple
+579,Dormouse,2015,80.0,U.K.,2.75,"Criollo, Trinitario",Colombia,2,dark purple
+580,Dormouse,2015,77.0,U.K.,2.75,"Criollo, Trinitario",Madagascar,1,purple
+581,Duffy's,2015,70.0,U.K.,4.0,Criollo,Guatemala,0,pink
+582,Duffy's,2014,70.0,U.K.,3.5,Criollo,Nicaragua,0,pink
+583,Duffy's,2014,76.0,U.K.,3.75,Criollo,Nicaragua,0,pink
+584,Duffy's,2012,72.0,U.K.,3.75,Unknown,Venezuela,0,pink
+585,Duffy's,2011,72.0,U.K.,3.75,Criollo,Honduras,0,pink
+586,Duffy's,2011,65.0,U.K.,3.5,Unknown,Dominican Republic,0,pink
+587,Duffy's,2011,72.0,U.K.,3.0,Unknown,Panama,1,purple
+588,Duffy's,2011,71.0,U.K.,3.25,Criollo,Nicaragua,0,pink
+589,Duffy's,2011,71.0,U.K.,3.5,Unknown,Venezuela,0,pink
+590,Duffy's,2010,70.0,U.K.,3.5,Unknown,Panama,0,pink
+591,Duffy's,2010,72.0,U.K.,3.75,Unknown,Ecuador,0,pink
+592,Duffy's,2010,70.0,U.K.,2.5,Unknown,Ecuador,1,purple
+593,Duffy's,2010,70.0,U.K.,3.75,Unknown,Peru,0,pink
+594,Dulcinea,2015,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+595,Durand,2012,82.0,France,2.75,Trinitario,Madagascar,2,dark purple
+596,Durci,2015,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+597,Durci,2015,70.0,U.S.A.,3.5,Trinitario,Venezuela,0,pink
+598,Durci,2015,70.0,U.S.A.,3.25,Unknown,Domincan Republic,0,pink
+599,Durci,2015,70.0,U.S.A.,3.25,Trinitario,Venezuela,0,pink
+600,Durci,2015,70.0,U.S.A.,4.0,Unknown,Ecuador,0,pink
+601,East Van Roasters,2014,70.0,Canada,3.25,Unknown,Peru,0,pink
+602,East Van Roasters,2014,70.0,Canada,3.5,Trinitario,Madagascar,0,pink
+603,East Van Roasters,2014,70.0,Canada,3.75,Unknown,Dominican Republic,0,pink
+604,Eau de Rose,2016,70.0,Canada,3.25,Unknown,Colombia,0,pink
+605,Eau de Rose,2016,70.0,Canada,3.25,Unknown,Colombia,0,pink
+606,Eclat (Felchlin),2012,72.0,U.S.A.,2.75,Forastero (Nacional),Peru,1,purple
+607,Edelmond,2016,68.0,Germany,3.0,Criollo,Venezuela,1,purple
+608,El Ceibo,2011,75.0,Bolivia,3.75,Unknown,Bolivia,0,pink
+609,El Ceibo,2008,71.0,Bolivia,2.75,Unknown,Bolivia,1,purple
+610,El Rey,2015,70.0,Venezuela,3.75,Unknown,Venezuela,0,pink
+611,El Rey,2009,60.5,Venezuela,2.75,Trinitario,Venezuela,1,purple
+612,El Rey,2009,70.0,Venezuela,3.0,Trinitario,Venezuela,1,purple
+613,El Rey,2008,74.0,Venezuela,2.5,Criollo,Venezuela,1,purple
+614,El Rey,2008,58.0,Venezuela,2.5,Criollo,Venezuela,1,purple
+615,El Rey,2008,61.0,Venezuela,3.0,Criollo,Venezuela,1,purple
+616,El Rey,2006,70.0,Venezuela,2.75,Criollo,Venezuela,1,purple
+617,Emerald Estate,2013,60.0,St. Lucia,2.75,Unknown,St. Lucia,1,purple
+618,Emerald Estate,2013,70.0,St. Lucia,3.25,Unknown,St. Lucia,0,pink
+619,Emily's,2015,79.0,Japan,3.0,Unknown,Venezuela,2,dark purple
+620,Emily's,2015,78.0,Japan,3.5,Criollo,Peru,0,pink
+621,ENNA,2016,75.0,U.S.A.,3.25,Unknown,Honduras,0,pink
+622,Enric Rovira (Claudio Corallo),2010,80.0,Spain,3.25,Forastero,Sao Tome & Principe,2,dark purple
+623,Erithaj (A. Morin),2014,70.0,France,3.25,Trinitario,Vietnam,0,pink
+624,Erithaj (A. Morin),2014,80.0,France,3.0,Trinitario,Vietnam,2,dark purple
+625,Erithaj (A. Morin),2014,74.0,France,3.25,Trinitario,Vietnam,0,pink
+626,Escazu,2012,70.0,U.S.A.,2.75,Trinitario,Venezuela,1,purple
+627,Escazu,2009,65.0,U.S.A.,2.0,Unknown,Costa Rica,1,purple
+628,Escazu,2009,81.0,U.S.A.,3.5,Criollo,Venezuela,2,dark purple
+629,Escazu,2009,74.0,U.S.A.,2.75,Unknown,"Cost Rica, Ven",1,purple
+630,Escazu,2008,72.0,U.S.A.,3.0,Criollo,Venezuela,1,purple
+631,Ethel's Artisan (Mars),2011,55.0,U.S.A.,2.5,Unknown,"Peru, Madagascar",1,purple
+632,Ethel's Artisan (Mars),2011,55.0,U.S.A.,2.5,Trinitario,Trinidad,1,purple
+633,Ethel's Artisan (Mars),2011,70.0,U.S.A.,2.5,Criollo (Porcelana),Venezuela,1,purple
+634,Ethel's Artisan (Mars),2011,62.0,U.S.A.,2.75,Unknown,Unknown,1,purple
+635,Ethel's Artisan (Mars),2011,62.0,U.S.A.,2.5,Unknown,"Venezuela, Trinidad",1,purple
+636,Ethereal,2014,80.0,U.S.A.,3.0,Trinitario,Belize,2,dark purple
+637,Ethereal,2014,80.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+638,Ethereal,2014,80.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+639,Fearless (AMMA),2010,75.0,U.S.A.,2.75,Unknown,Brazil,1,purple
+640,Feitoria Cacao,2016,76.0,Portugal,3.0,Unknown,Jamaica,1,purple
+641,Feitoria Cacao,2016,76.0,Portugal,2.5,Unknown,Venezuela,1,purple
+642,Feitoria Cacao,2016,76.0,Portugal,2.75,Trinitario,Belize,1,purple
+643,Felchlin,2010,58.0,Switzerland,3.5,Trinitario,Grenada,0,pink
+644,Felchlin,2006,62.0,Switzerland,2.0,Unknown,Unknown,1,purple
+645,Felchlin,2006,74.0,Switzerland,3.0,"Trinitario, Criollo",Dominican Republic,1,purple
+646,Felchlin,2006,64.0,Switzerland,3.0,Criollo,Madagascar,1,purple
+647,Felchlin,2006,65.0,Switzerland,3.0,Criollo,Venezuela,1,purple
+648,Felchlin,2006,72.0,Switzerland,3.5,Forastero (Arriba),Ecuador,0,pink
+649,Felchlin,2006,68.0,Switzerland,4.0,Criollo (Wild),Bolivia,0,pink
+650,Finca,2014,65.0,U.S.A.,2.25,Unknown,Puerto Rico,1,purple
+651,Finca,2014,80.0,U.S.A.,3.0,Unknown,Dominican Republic,2,dark purple
+652,Finca,2014,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+653,Finca,2014,85.0,U.S.A.,2.5,Unknown,Dominican Republic,2,dark purple
+654,Forever Cacao,2014,72.0,U.K.,2.75,Criollo,Peru,1,purple
+655,Forteza (Cortes),2016,70.0,Puerto Rico,2.75,Unknown,Domincan Republic,1,purple
+656,Forteza (Cortes),2016,80.0,Puerto Rico,2.75,Unknown,Domincan Republic,2,dark purple
+657,Fossa,2016,70.0,Singapore,2.75,Unknown,Madagascar,1,purple
+658,Fossa,2016,75.0,Singapore,3.5,Unknown,Ecuador,0,pink
+659,Fossa,2016,67.0,Singapore,3.75,Trinitario,Tanzania,0,pink
+660,Franceschi,2014,70.0,Venezuela,3.5,Unknown,Venezuela,0,pink
+661,Franceschi,2014,70.0,Venezuela,3.75,Unknown,Venezuela,0,pink
+662,Franceschi,2012,70.0,Venezuela,3.75,Unknown,Venezuela,0,pink
+663,Franceschi,2012,60.0,Venezuela,3.5,Unknown,Venezuela,0,pink
+664,Frederic Blondeel,2015,70.0,Belgium,3.5,Unknown,Costa Rica,0,pink
+665,Frederic Blondeel,2015,75.0,Belgium,3.5,Unknown,Peru,0,pink
+666,Frederic Blondeel,2015,80.0,Belgium,3.0,Trinitario,Vietnam,2,dark purple
+667,Frederic Blondeel,2014,60.0,Belgium,3.5,Forastero,Ghana,0,pink
+668,Frederic Blondeel,2014,65.0,Belgium,3.5,Trinitario,Madagascar,0,pink
+669,French Broad,2017,70.0,U.S.A.,3.5,Unknown,Peru,0,pink
+670,French Broad,2015,73.0,U.S.A.,3.5,Unknown,Guatemala,0,pink
+671,French Broad,2014,80.0,U.S.A.,3.0,Unknown,Costa Rica,2,dark purple
+672,French Broad,2014,68.0,U.S.A.,3.25,Unknown,Nicaragua,0,pink
+673,French Broad,2013,66.0,U.S.A.,3.5,Unknown,Peru,0,pink
+674,French Broad,2012,70.0,U.S.A.,2.5,Criollo,Peru,1,purple
+675,French Broad,2012,61.0,U.S.A.,3.5,Unknown,Peru,0,pink
+676,French Broad,2012,81.0,U.S.A.,2.0,Unknown,Peru,2,dark purple
+677,French Broad,2011,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+678,French Broad,2011,65.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+679,Fresco,2014,70.0,U.S.A.,3.0,Forastero (Nacional),Peru,1,purple
+680,Fresco,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+681,Fresco,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+682,Fresco,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+683,Fresco,2013,72.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+684,Fresco,2013,72.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+685,Fresco,2013,70.0,U.S.A.,3.75,Unknown,Peru,0,pink
+686,Fresco,2013,70.0,U.S.A.,4.0,Trinitario,Peru,0,pink
+687,Fresco,2012,69.0,U.S.A.,3.5,Unknown,Papua New Guinea,0,pink
+688,Fresco,2012,69.0,U.S.A.,3.5,Unknown,Papua New Guinea,0,pink
+689,Fresco,2012,74.0,U.S.A.,4.0,Trinitario,Madagascar,0,pink
+690,Fresco,2012,69.0,U.S.A.,4.0,Trinitario,Papua New Guinea,0,pink
+691,Fresco,2012,69.0,U.S.A.,3.0,Trinitario,Papua New Guinea,1,purple
+692,Fresco,2011,74.0,U.S.A.,2.75,Forastero,Ghana,1,purple
+693,Fresco,2011,70.0,U.S.A.,3.25,Trinitario,Jamaica,0,pink
+694,Fresco,2011,72.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+695,Fresco,2011,70.0,U.S.A.,3.5,Trinitario,Jamaica,0,pink
+696,Fresco,2011,74.0,U.S.A.,2.75,Trinitario,Madagascar,1,purple
+697,Fresco,2011,72.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+698,Fresco,2011,74.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+699,Fresco,2011,76.0,U.S.A.,3.25,Trinitario,Venezuela,0,pink
+700,Fresco,2011,70.0,U.S.A.,4.0,Trinitario,Venezuela,0,pink
+701,Fresco,2009,80.0,U.S.A.,2.75,Trinitario,Jamaica,2,dark purple
+702,Fresco,2009,70.0,U.S.A.,3.0,Trinitario,Jamaica,1,purple
+703,Fresco,2009,70.0,U.S.A.,3.25,Trinitario,Jamaica,0,pink
+704,Fresco,2009,65.0,U.S.A.,3.5,Criollo,Venezuela,0,pink
+705,Friis Holm,2016,70.0,Denmark,3.5,Unknown,Nicaragua,0,pink
+706,Friis Holm (Bonnat),2015,60.0,Denmark,3.0,Unknown,Nicaragua,1,purple
+707,Friis Holm (Bonnat),2015,85.0,Denmark,3.25,Unknown,Nicaragua,2,dark purple
+708,Friis Holm (Bonnat),2014,70.0,Denmark,3.5,Unknown,Nicaragua,0,pink
+709,Friis Holm (Bonnat),2013,70.0,Denmark,3.25,Unknown,Nicaragua,0,pink
+710,Friis Holm (Bonnat),2013,70.0,Denmark,3.5,Unknown,Nicaragua,0,pink
+711,Friis Holm (Bonnat),2012,70.0,Denmark,3.25,"Criollo, Trinitario",Nicaragua,0,pink
+712,Friis Holm (Bonnat),2012,70.0,Denmark,3.25,"Criollo, Trinitario",Honduras,0,pink
+713,Friis Holm (Bonnat),2012,70.0,Denmark,3.25,"Criollo, Trinitario",Nicaragua,0,pink
+714,Friis Holm (Bonnat),2012,70.0,Denmark,3.75,Unknown,Nicaragua,0,pink
+715,Friis Holm (Bonnat),2011,70.0,Denmark,3.25,"Criollo, Trinitario",Nicaragua,0,pink
+716,Friis Holm (Bonnat),2011,70.0,Denmark,3.5,"Criollo, Trinitario",Nicaragua,0,pink
+717,Friis Holm (Bonnat),2011,70.0,Denmark,3.5,"Criollo, Trinitario",Nicaragua,0,pink
+718,Fruition,2016,74.0,U.S.A.,3.75,Beniano,Bolivia,0,pink
+719,Fruition,2016,74.0,U.S.A.,4.0,Amazon mix,Costa Rica,0,pink
+720,Fruition,2014,70.0,U.S.A.,3.75,Trinitario,Trinidad,0,pink
+721,Fruition,2014,76.0,U.S.A.,3.0,Forastero (Nacional),Peru,1,purple
+722,Fruition,2013,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+723,Fruition,2013,75.0,U.S.A.,3.0,Unknown,Ecuador,1,purple
+724,Fruition,2012,70.0,U.S.A.,2.5,Unknown,Peru,1,purple
+725,Fruition,2011,66.0,U.S.A.,3.25,Trinitario,Costa Rica,0,pink
+726,Fruition,2011,70.0,U.S.A.,3.0,Unknown,Costa Rica,1,purple
+727,Garden Island,2014,85.0,U.S.A.,2.5,Blend,Hawaii,2,dark purple
+728,Georgia Ramon,2015,65.0,Germany,3.25,Trinitario,Madagascar,0,pink
+729,Georgia Ramon,2015,70.0,Germany,4.0,Forastero,Ghana,0,pink
+730,Georgia Ramon,2015,70.0,Germany,3.5,Trinitario,Domincan Republic,0,pink
+731,Georgia Ramon,2015,80.0,Germany,3.5,Trinitario,Domincan Republic,0,pink
+732,Georgia Ramon,2015,75.0,Germany,3.5,Trinitario,Madagascar,0,pink
+733,Glennmade,2016,70.0,U.S.A.,3.5,Unknown,Belize,0,pink
+734,Glennmade,2015,66.0,U.S.A.,3.0,"Trinitario, Forastero",Brazil,1,purple
+735,Goodnow Farms,2016,77.0,U.S.A.,2.75,Unknown,Mexico,1,purple
+736,Goodnow Farms,2016,77.0,U.S.A.,3.25,Unknown,Nicaragua,0,pink
+737,Goodnow Farms,2016,77.0,U.S.A.,3.25,Unknown,Guatemala,0,pink
+738,Grand Place,2011,72.0,Vietnam,3.0,Trinitario,Vietnam,1,purple
+739,Green & Black's (ICAM),2006,70.0,U.K.,2.5,Unknown,Unknown,1,purple
+740,Green Bean to Bar,2016,70.0,Japan,3.5,Unknown,Madagascar,0,pink
+741,Grenada Chocolate Co.,2010,82.0,Grenada,3.25,Trinitario,Grenada,2,dark purple
+742,Grenada Chocolate Co.,2009,60.0,Grenada,2.75,Trinitario,Grenada,1,purple
+743,Grenada Chocolate Co.,2008,71.0,Grenada,2.5,Trinitario,Grenada,1,purple
+744,Guido Castagna,2009,64.0,Italy,3.0,Forastero (Arriba) ASS,Ecuador,1,purple
+745,Guido Castagna,2009,64.0,Italy,3.0,Forastero,Ghana,1,purple
+746,Guido Castagna,2009,64.0,Italy,3.0,Unknown,"Trinidad, Tobago",1,purple
+747,Guido Castagna,2009,76.0,Italy,3.0,Unknown,Venezuela,1,purple
+748,Guido Castagna,2009,64.0,Italy,3.25,Unknown,"Ven, Trinidad, Ecuador",0,pink
+749,Guittard,2015,70.0,U.S.A.,3.75,Unknown,Unknown,0,pink
+750,Guittard,2013,65.0,U.S.A.,2.75,Unknown,Haiti,1,purple
+751,Guittard,2013,65.0,U.S.A.,2.75,Unknown,Nicaragua,1,purple
+752,Guittard,2013,65.0,U.S.A.,3.25,Trinitario,Jamaica,0,pink
+753,Guittard,2013,65.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+754,Guittard,2011,72.0,U.S.A.,2.75,Unknown,Unknown,1,purple
+755,Guittard,2011,61.0,U.S.A.,3.25,Unknown,Unknown,0,pink
+756,Guittard,2011,72.0,U.S.A.,3.25,Unknown,Unknown,0,pink
+757,Guittard,2010,65.0,U.S.A.,3.0,Trinitario,Trinidad,1,purple
+758,Guittard,2009,55.0,U.S.A.,3.0,Unknown,Hawaii,1,purple
+759,Guittard,2009,91.0,U.S.A.,3.0,Unknown,Unknown,2,dark purple
+760,Guittard,2009,70.0,U.S.A.,3.5,Blend,Unknown,0,pink
+761,Guittard,2008,65.0,U.S.A.,3.0,Unknown,Peru,1,purple
+762,Guittard,2008,64.0,U.S.A.,3.0,Unknown,Unknown,1,purple
+763,Guittard,2008,65.0,U.S.A.,3.5,Unknown,Venezuela,0,pink
+764,Guittard,2007,72.0,U.S.A.,3.5,Blend,Unknown,0,pink
+765,Guittard,2006,65.0,U.S.A.,3.0,Trinitario,Colombia,1,purple
+766,Guittard,2006,65.0,U.S.A.,2.5,"Trinitario, Criollo",Venezuela,1,purple
+767,Guittard,2006,65.0,U.S.A.,3.5,"Criollo, +",Madagascar,0,pink
+768,Guittard,2006,65.0,U.S.A.,3.5,Forastero (Arriba),Ecuador,0,pink
+769,Guittard,2006,61.0,U.S.A.,3.5,Blend,Unknown,0,pink
+770,Guittard,2006,61.0,U.S.A.,3.0,Blend,Unknown,1,purple
+771,Habitual,2014,80.0,Canada,2.75,Unknown,Papua New Guinea,2,dark purple
+772,Habitual,2014,74.0,Canada,2.75,Unknown,Unknown,1,purple
+773,Habitual,2014,75.0,Canada,3.25,Unknown,Dominican Republic,0,pink
+774,Habitual,2014,70.0,Canada,3.5,Trinitario,Unknown,0,pink
+775,Habitual,2014,65.0,Canada,2.75,Unknown,Unknown,1,purple
+776,Habitual,2014,70.0,Canada,3.0,Unknown,Unknown,1,purple
+777,Habitual,2014,80.0,Canada,3.0,Unknown,Unknown,2,dark purple
+778,Habitual,2014,66.0,Canada,3.25,Unknown,Hawaii,0,pink
+779,Habitual,2014,100.0,Canada,2.0,Unknown,Unknown,2,dark purple
+780,Hachez,2007,77.0,Germany,2.5,Forastero (Arriba),Ecuador,1,purple
+781,Hacienda El Castillo,2014,55.0,Ecuador,2.75,Trinitario,Ecuador,1,purple
+782,Hacienda El Castillo,2014,70.0,Ecuador,3.0,Trinitario,Ecuador,1,purple
+783,Haigh,2011,70.0,Australia,3.0,Unknown,"South America, Africa",1,purple
+784,Harper Macaw,2016,85.0,U.S.A.,3.25,Unknown,Brazil,2,dark purple
+785,Harper Macaw,2015,67.0,U.S.A.,3.0,Unknown,Brazil,1,purple
+786,Harper Macaw,2015,77.0,U.S.A.,3.5,Unknown,Brazil,0,pink
+787,Harper Macaw,2015,74.0,U.S.A.,3.5,Unknown,Brazil,0,pink
+788,Heilemann,2016,64.0,Germany,2.75,Unknown,Peru,1,purple
+789,Heirloom Cacao Preservation (Brasstown),2016,70.0,U.S.A.,3.25,Amazon,Belize,0,pink
+790,Heirloom Cacao Preservation (Fruition),2016,74.0,U.S.A.,3.5,Amazon mix,Costa Rica,0,pink
+791,Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.5,"Amazon, ICS",Bolivia,0,pink
+792,Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.0,Beniano,Bolivia,1,purple
+793,Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.75,EET,Ecuador,0,pink
+794,Heirloom Cacao Preservation (Guittard),2014,67.0,U.S.A.,3.75,Unknown,Hawaii,0,pink
+795,Heirloom Cacao Preservation (Manoa),2016,72.0,U.S.A.,3.5,Unknown,Hawaii,0,pink
+796,Heirloom Cacao Preservation (Millcreek),2016,70.0,U.S.A.,3.5,EET,Ecuador,0,pink
+797,Heirloom Cacao Preservation (Mindo),2016,77.0,U.S.A.,3.5,EET,Ecuador,0,pink
+798,Heirloom Cacao Preservation (Zokoko),2016,68.0,U.S.A.,3.75,"Amazon, ICS",Bolivia,0,pink
+799,Heirloom Cacao Preservation (Zokoko),2016,72.0,U.S.A.,4.0,Beniano,Bolivia,0,pink
+800,hello cocoa,2015,57.0,U.S.A.,2.75,Forastero,Uganda,1,purple
+801,hello cocoa,2015,74.0,U.S.A.,3.5,Criollo,Venezuela,0,pink
+802,hexx,2015,70.0,U.S.A.,2.75,Unknown,Tanzania,1,purple
+803,hexx,2015,74.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+804,hexx,2015,70.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+805,hexx,2015,73.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+806,hexx,2015,70.0,U.S.A.,3.25,Unknown,Peru,0,pink
+807,Hogarth,2016,70.0,New Zealand,2.75,Trinitario,Madagascar,1,purple
+808,Hogarth,2016,72.0,New Zealand,2.75,Trinitario,Venezuela,1,purple
+809,Hogarth,2016,75.0,New Zealand,3.25,Trinitario,Domincan Republic,0,pink
+810,Hogarth,2016,66.0,New Zealand,3.5,Criollo,Peru,0,pink
+811,Hoja Verde (Tulicorp),2009,80.0,Ecuador,2.0,Forastero (Arriba) ASS,Ecuador,2,dark purple
+812,Hoja Verde (Tulicorp),2009,80.0,Ecuador,2.5,Forastero (Arriba) ASS,Ecuador,2,dark purple
+813,Hoja Verde (Tulicorp),2009,72.0,Ecuador,3.0,Forastero (Arriba) ASS,Ecuador,1,purple
+814,Hoja Verde (Tulicorp),2009,58.0,Ecuador,3.25,Forastero (Arriba) ASS,Ecuador,0,pink
+815,Hoja Verde (Tulicorp),2009,58.0,Ecuador,3.5,Forastero (Arriba) ASS,Ecuador,0,pink
+816,Holy Cacao,2016,70.0,Israel,2.75,Unknown,Peru,1,purple
+817,Holy Cacao,2015,70.0,Israel,3.5,Unknown,Ecuador,0,pink
+818,Holy Cacao,2015,70.0,Israel,3.5,Trinitario,Madagascar,0,pink
+819,Holy Cacao,2015,70.0,Israel,3.5,Trinitario,Trinidad,0,pink
+820,Holy Cacao,2015,70.0,Israel,3.5,Unknown,Venezuela,0,pink
+821,Holy Cacao,2009,70.0,Israel,2.5,Unknown,Ivory Coast,1,purple
+822,Holy Cacao,2009,70.0,Israel,2.75,Unknown,Dominican Republic,1,purple
+823,Holy Cacao,2009,70.0,Israel,3.5,Unknown,Peru,0,pink
+824,Holy Cacao,2009,75.0,Israel,3.75,Unknown,Dominican Republic,0,pink
+825,Honest,2014,72.0,South Africa,2.5,Unknown,Ecuador,1,purple
+826,Hotel Chocolat,2015,70.0,U.K.,2.75,Unknown,St. Lucia,1,purple
+827,Hotel Chocolat,2013,70.0,U.K.,4.0,Trinitario,St. Lucia,0,pink
+828,Hotel Chocolat,2013,100.0,U.K.,1.75,Trinitario,St. Lucia,2,dark purple
+829,Hotel Chocolat (Coppeneur),2013,75.0,U.K.,3.0,Trinitario,Trinidad,1,purple
+830,Hotel Chocolat (Coppeneur),2013,80.0,U.K.,3.5,Trinitario,Vietnam,0,pink
+831,Hotel Chocolat (Coppeneur),2013,90.0,U.K.,3.0,Forastero (Nacional),Ecuador,2,dark purple
+832,Hotel Chocolat (Coppeneur),2013,72.0,U.K.,3.0,Trinitario,Madagascar,1,purple
+833,Hotel Chocolat (Coppeneur),2013,82.0,U.K.,3.5,Forastero (Nacional),Ecuador,2,dark purple
+834,Hotel Chocolat (Coppeneur),2013,100.0,U.K.,2.75,Unknown,Peru,2,dark purple
+835,Hotel Chocolat (Coppeneur),2013,100.0,U.K.,2.5,Forastero (Nacional),Ecuador,2,dark purple
+836,Hotel Chocolat (Coppeneur),2013,100.0,U.K.,2.75,Unknown,Dominican Republic,2,dark purple
+837,Hotel Chocolat (Coppeneur),2012,66.0,U.K.,3.5,"Trinitario, Criollo",Madagascar,0,pink
+838,Hotel Chocolat (Coppeneur),2011,80.0,U.K.,3.0,Forastero (Nacional),Ecuador,2,dark purple
+839,Hotel Chocolat (Coppeneur),2011,65.0,U.K.,3.0,Trinitario,St. Lucia,1,purple
+840,Hotel Chocolat (Coppeneur),2011,65.0,U.K.,3.25,Trinitario,St. Lucia,0,pink
+841,Hotel Chocolat (Coppeneur),2010,70.0,U.K.,2.75,Unknown,Ecuador,1,purple
+842,Hotel Chocolat (Coppeneur),2010,70.0,U.K.,3.0,Unknown,Dominican Republic,1,purple
+843,Hotel Chocolat (Coppeneur),2010,70.0,U.K.,2.75,Trinitario,Venezuela,1,purple
+844,Hotel Chocolat (Coppeneur),2008,72.0,U.K.,3.0,Unknown,St. Lucia,1,purple
+845,Hotel Chocolat (Coppeneur),2008,80.0,U.K.,2.5,Forastero,Uganda,2,dark purple
+846,Hotel Chocolat (Coppeneur),2008,75.0,U.K.,2.75,Unknown,Tanzania,1,purple
+847,Hotel Chocolat (Coppeneur),2008,72.0,U.K.,3.0,Forastero,Sao Tome,1,purple
+848,Hummingbird,2015,70.0,Canada,3.5,Trinitario,Vietnam,0,pink
+849,Hummingbird,2014,70.0,Canada,3.0,"Criollo, Trinitario",Bolivia,1,purple
+850,Hummingbird,2014,70.0,Canada,3.0,"Criollo, Trinitario",Bolivia,1,purple
+851,Hummingbird,2014,70.0,Canada,3.0,Trinitario,Nicaragua,1,purple
+852,Hummingbird,2014,70.0,Canada,3.75,Trinitario,Dominican Republic,0,pink
+853,Hummingbird,2014,70.0,Canada,3.5,Unknown,Dominican Republic,0,pink
+854,Hummingbird,2013,70.0,Canada,3.25,"Trinitario, Criollo",Venezuela,0,pink
+855,Hummingbird,2013,70.0,Canada,3.75,Forastero,Venezuela,0,pink
+856,Idilio (Felchlin),2013,72.0,Switzerland,3.75,Trinitario,Venezuela,0,pink
+857,Idilio (Felchlin),2011,72.0,Switzerland,3.75,Criollo,Venezuela,0,pink
+858,Idilio (Felchlin),2011,72.0,Switzerland,3.75,Unknown,Venezuela,0,pink
+859,Idilio (Felchlin),2011,72.0,Switzerland,3.25,Criollo,Venezuela,0,pink
+860,Idilio (Felchlin),2011,72.0,Switzerland,3.75,Criollo,Venezuela,0,pink
+861,Idilio (Felchlin),2011,74.0,Switzerland,4.0,Criollo,Venezuela,0,pink
+862,Idilio (Felchlin),2011,72.0,Switzerland,3.5,Criollo,Venezuela,0,pink
+863,Idilio (Felchlin),2011,70.0,Switzerland,4.0,Trinitario,Venezuela,0,pink
+864,Idilio (Felchlin),2011,72.0,Switzerland,4.0,Criollo,Venezuela,0,pink
+865,Idilio (Felchlin),2011,72.0,Switzerland,4.0,Unknown,Venezuela,0,pink
+866,Indah,2016,61.0,India,2.5,Unknown,India,1,purple
+867,Indaphoria,2012,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+868,Indaphoria,2012,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+869,Indi,2014,77.0,U.S.A.,3.0,Unknown,Honduras,1,purple
+870,iQ Chocolate,2012,72.0,Scotland,2.75,Criollo,Peru,1,purple
+871,iQ Chocolate,2012,72.0,Scotland,3.0,Unknown,Peru,1,purple
+872,Isidro,2014,72.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+873,Isidro,2014,72.0,U.S.A.,2.25,Unknown,Peru,1,purple
+874,Isidro,2014,72.0,U.S.A.,3.25,Trinitario,Belize,0,pink
+875,Isidro,2014,72.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+876,Izard,2015,70.0,U.S.A.,3.5,Trinitario,Belize,0,pink
+877,Izard,2015,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+878,Jacque Torres,2006,71.0,U.S.A.,2.0,Trinitario,Ghana,1,purple
+879,Jordis,2015,63.0,Czech Republic,2.75,Trinitario,Madagascar,1,purple
+880,Just Good Chocolate,2014,70.0,U.S.A.,3.5,Trinitario,Belize,0,pink
+881,Just Good Chocolate,2014,70.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+882,Just Good Chocolate,2014,70.0,U.S.A.,4.0,Unknown,Peru,0,pink
+883,Kah Kow,2013,70.0,Domincan Republic,3.5,Unknown,Dominican Republic,0,pink
+884,Kah Kow,2013,82.0,Domincan Republic,3.0,Unknown,Dominican Republic,2,dark purple
+885,Kah Kow,2013,55.0,Domincan Republic,3.25,Unknown,Dominican Republic,0,pink
+886,Kah Kow,2013,62.0,Domincan Republic,3.25,Unknown,Dominican Republic,0,pink
+887,Kakao,2012,64.0,Germany,2.5,Unknown,Peru,1,purple
+888,Kakao,2009,65.0,Germany,3.75,Trinitario,Vanuatu,0,pink
+889,Kallari (Ecuatoriana),2008,70.0,Ecuador,3.0,Unknown,Ecuador,1,purple
+890,Kallari (Ecuatoriana),2008,70.0,Ecuador,3.5,Unknown,Ecuador,0,pink
+891,Kallari (Ecuatoriana),2008,75.0,Ecuador,2.75,Unknown,Ecuador,1,purple
+892,Kallari (Ecuatoriana),2008,85.0,Ecuador,2.5,Unknown,Ecuador,2,dark purple
+893,Kallari (Ecuatoriana),2008,85.0,Ecuador,2.75,Unknown,Ecuador,2,dark purple
+894,Kallari (Ecuatoriana),2008,85.0,Ecuador,3.0,Unknown,Ecuador,2,dark purple
+895,Kallari (Ecuatoriana),2008,75.0,Ecuador,2.5,Unknown,Ecuador,1,purple
+896,Kallari (Ecuatoriana),2008,85.0,Ecuador,3.0,Unknown,Ecuador,2,dark purple
+897,Kaoka (Cemoi),2009,70.0,France,2.75,Unknown,Unknown,1,purple
+898,Kaoka (Cemoi),2009,80.0,France,2.75,Unknown,Ecuador,2,dark purple
+899,Kerchner,2013,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+900,Ki' Xocolatl,2009,72.0,Mexico,2.0,Unknown,Mexico,1,purple
+901,Kiskadee,2014,60.0,U.S.A.,3.0,Trinitario,Dominican Republic,1,purple
+902,Kto,2014,72.0,U.S.A.,2.5,Unknown,Peru,1,purple
+903,Kto,2014,72.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+904,Kto,2014,72.0,U.S.A.,3.0,Trinitario,Belize,1,purple
+905,Kto,2014,72.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+906,Kto,2014,90.0,U.S.A.,3.25,Trinitario,Belize,2,dark purple
+907,Kto,2014,72.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+908,Kto,2014,72.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+909,K'ul,2016,70.0,U.S.A.,3.25,Unknown,Haiti,0,pink
+910,K'ul,2016,70.0,U.S.A.,2.75,Forastero (Nacional),Peru,1,purple
+911,K'ul,2016,70.0,U.S.A.,3.75,Unknown,Ecuador,0,pink
+912,K'ul,2016,70.0,U.S.A.,3.75,Forastero,Brazil,0,pink
+913,Kyya,2014,72.5,U.S.A.,2.5,Forastero,Uganda,1,purple
+914,Kyya,2014,72.5,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+915,Kyya,2014,72.5,U.S.A.,2.5,Unknown,Ecuador,1,purple
+916,Kyya,2014,72.5,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+917,L.A. Burdick (Felchlin),2012,74.0,U.S.A.,3.25,Unknown,Peru,0,pink
+918,L.A. Burdick (Felchlin),2012,70.0,U.S.A.,4.0,Unknown,Brazil,0,pink
+919,L.A. Burdick (Felchlin),2012,68.0,U.S.A.,3.75,Trinitario,Venezuela,0,pink
+920,L.A. Burdick (Felchlin),2011,74.0,U.S.A.,3.75,Unknown,Ecuador,0,pink
+921,L.A. Burdick (Felchlin),2010,75.0,U.S.A.,3.25,Trinitario,Grenada,0,pink
+922,L.A. Burdick (Felchlin),2010,74.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+923,L.A. Burdick (Felchlin),2010,71.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+924,L.A. Burdick (Felchlin),2009,64.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+925,L.A. Burdick (Felchlin),2009,68.0,U.S.A.,3.0,Unknown,Bolivia,1,purple
+926,La Chocolaterie Nanairo,2016,70.0,Japan,2.25,"Trinitario, Criollo",Peru,1,purple
+927,La Chocolaterie Nanairo,2016,70.0,Japan,2.5,"Trinitario, Criollo",Peru,1,purple
+928,La Chocolaterie Nanairo,2016,70.0,Japan,3.0,Criollo,Peru,1,purple
+929,La Chocolaterie Nanairo,2016,70.0,Japan,3.0,"Trinitario, Criollo",Belize,1,purple
+930,La Maison du Chocolat (Valrhona),2013,74.0,France,2.75,Unknown,"Africa, Carribean, C. Am.",1,purple
+931,La Maison du Chocolat (Valrhona),2013,60.0,France,3.25,Unknown,Tobago,0,pink
+932,La Maison du Chocolat (Valrhona),2013,56.0,France,3.25,Unknown,Ecuador,0,pink
+933,La Maison du Chocolat (Valrhona),2012,66.0,France,3.5,Unknown,Dominican Republic,0,pink
+934,La Maison du Chocolat (Valrhona),2011,68.0,France,3.5,Trinitario,Grenada,0,pink
+935,La Maison du Chocolat (Valrhona),2009,68.0,France,3.25,Forastero,Ghana,0,pink
+936,La Maison du Chocolat (Valrhona),2009,69.0,France,3.5,Criollo (Porcelana),Venezuela,0,pink
+937,La Maison du Chocolat (Valrhona),2009,60.0,France,3.0,Unknown,Unknown,1,purple
+938,La Maison du Chocolat (Valrhona),2009,60.0,France,3.75,Unknown,Unknown,0,pink
+939,La Maison du Chocolat (Valrhona),2008,74.0,France,3.5,Blend,"Ven., Indonesia, Ecuad.",0,pink
+940,La Oroquidea,2011,72.0,Peru,2.5,Unknown,Peru,1,purple
+941,La Pepa de Oro,2011,60.0,Ecuador,3.25,Unknown,Ecuador,0,pink
+942,Laia aka Chat-Noir,2015,75.0,France,2.75,Trinitario,Madagascar,1,purple
+943,Laia aka Chat-Noir,2015,75.0,France,2.75,Trinitario,Vietnam,1,purple
+944,Laia aka Chat-Noir,2015,75.0,France,3.0,Unknown,Cuba,1,purple
+945,Laia aka Chat-Noir,2015,75.0,France,3.25,Unknown,Peru,0,pink
+946,Laia aka Chat-Noir,2015,75.0,France,3.0,Unknown,Ivory Coast,1,purple
+947,Laia aka Chat-Noir,2015,75.0,France,3.5,Forastero,Sao Tome,0,pink
+948,Laia aka Chat-Noir,2015,75.0,France,3.25,Unknown,Brazil,0,pink
+949,Laia aka Chat-Noir,2015,75.0,France,3.75,Trinitario,Vietnam,0,pink
+950,Laia aka Chat-Noir,2014,70.0,France,2.75,Unknown,Cuba,1,purple
+951,Laia aka Chat-Noir,2014,68.0,France,2.75,Unknown,Trinidad-Tobago,1,purple
+952,Lajedo do Ouro,2012,70.0,Brazil,3.5,Forastero (Catongo),Brazil,0,pink
+953,Lake Champlain (Callebaut),2009,75.0,U.S.A.,2.5,Unknown,Tanzania,1,purple
+954,L'Amourette,2016,80.0,U.S.A.,3.5,Trinitario,Nicaragua,0,pink
+955,L'Amourette,2012,75.0,U.S.A.,3.0,Trinitario,Venezuela,1,purple
+956,L'Amourette,2012,75.0,U.S.A.,3.0,Trinitario,Venezuela,1,purple
+957,L'Amourette,2012,72.0,U.S.A.,3.0,Criollo,"Peru, Ecuador, Venezuela",1,purple
+958,Letterpress,2017,70.0,U.S.A.,3.5,Unknown,Honduras,0,pink
+959,Letterpress,2017,70.0,U.S.A.,3.25,Unknown,Belize,0,pink
+960,Letterpress,2016,70.0,U.S.A.,3.25,Unknown,Liberia,0,pink
+961,Letterpress,2015,70.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+962,Letterpress,2015,70.0,U.S.A.,3.5,Trinitario,Trinidad,0,pink
+963,Letterpress,2015,70.0,U.S.A.,3.0,Unknown,Costa Rica,1,purple
+964,Letterpress,2015,70.0,U.S.A.,3.25,Unknown,Domincan Republic,0,pink
+965,Letterpress,2015,70.0,U.S.A.,3.5,Unknown,Tanzania,0,pink
+966,Letterpress,2014,70.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+967,Levy,2014,71.0,Finland,3.5,Criollo,Madagascar,0,pink
+968,Lilla,2016,70.0,Finland,3.0,Trinitario,Madagascar,1,purple
+969,Lillie Belle,2012,65.0,U.S.A.,3.5,Criollo,Peru,0,pink
+970,Lillie Belle,2012,68.0,U.S.A.,3.5,Criollo,Bolivia,0,pink
+971,Lillie Belle,2012,68.0,U.S.A.,3.75,Unknown,Peru,0,pink
+972,Lillie Belle,2012,75.0,U.S.A.,2.75,Unknown,"Venezuela, Dom. Rep.",1,purple
+973,Lillie Belle,2012,74.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+974,Lillie Belle,2012,68.0,U.S.A.,3.5,Criollo,Bolivia,0,pink
+975,Lindt & Sprungli,2007,85.0,Switzerland,3.0,Unknown,Unknown,2,dark purple
+976,Loiza,2013,65.0,Puerto Rico,2.5,Unknown,Puerto Rico,1,purple
+977,Lonohana,2014,70.0,U.S.A.,3.75,Unknown,Hawaii,0,pink
+978,Lonohana,2014,65.0,U.S.A.,3.25,Unknown,Hawaii,0,pink
+979,Lonohana,2014,75.0,U.S.A.,3.75,Unknown,Hawaii,0,pink
+980,Lonohana,2013,71.0,U.S.A.,3.0,Unknown,Hawaii,1,purple
+981,Lonohana,2013,72.0,U.S.A.,3.0,Unknown,Hawaii,1,purple
+982,Lonohana,2013,70.0,U.S.A.,3.5,Unknown,Hawaii,0,pink
+983,Love Bar,2015,75.0,U.S.A.,2.0,Unknown,Nicaragua,1,purple
+984,Luker,2010,46.0,Colombia,2.75,Unknown,"Colombia, Ecuador",1,purple
+985,Luker,2010,60.0,Colombia,3.0,Unknown,"Colombia, Ecuador",1,purple
+986,Luker,2010,58.0,Colombia,3.0,Unknown,"Colombia, Ecuador",1,purple
+987,Luker,2010,65.0,Colombia,3.5,Unknown,Colombia,0,pink
+988,Machu Picchu Trading Co.,2011,70.0,Peru,1.5,Unknown,Peru,1,purple
+989,Machu Picchu Trading Co.,2010,55.0,Peru,2.25,Unknown,Peru,1,purple
+990,Madecasse (Cinagra),2008,67.0,Madagascar,3.5,Trinitario,Madagascar,0,pink
+991,Madecasse (Cinagra),2008,70.0,Madagascar,3.75,Trinitario,Madagascar,0,pink
+992,Madecasse (Cinagra),2008,63.0,Madagascar,4.0,Trinitario,Madagascar,0,pink
+993,Madecasse (Cinagra),2008,75.0,Madagascar,3.5,Trinitario,Madagascar,0,pink
+994,Madre,2017,73.0,U.S.A.,3.5,Unknown,Solomon Islands,0,pink
+995,Madre,2013,70.0,U.S.A.,2.75,Unknown,Puerto Rico,1,purple
+996,Madre,2013,70.0,U.S.A.,3.5,Unknown,Brazil,0,pink
+997,Madre,2013,70.0,U.S.A.,2.75,Unknown,Hawaii,1,purple
+998,Madre,2013,70.0,U.S.A.,2.75,Unknown,Mexico,1,purple
+999,Madre,2012,70.0,U.S.A.,3.25,Unknown,Hawaii,0,pink
+1000,Madre,2012,70.0,U.S.A.,3.25,Criollo,Hawaii,0,pink
+1001,Madre,2012,70.0,U.S.A.,3.5,Unknown,Hawaii,0,pink
+1002,Madre,2011,70.0,U.S.A.,2.5,Unknown,Dominican Republic,1,purple
+1003,Madre,2011,70.0,U.S.A.,2.75,Unknown,Costa Rica,1,purple
+1004,Madre,2010,72.0,U.S.A.,2.75,Unknown,Mexico,1,purple
+1005,Maglio,2008,75.0,Italy,2.0,Unknown,Tanzania,1,purple
+1006,Maglio,2008,70.0,Italy,3.0,Forastero (Nacional),Ecuador,1,purple
+1007,Maglio,2008,70.0,Italy,3.25,Criollo,Cuba,0,pink
+1008,Maglio,2008,70.0,Italy,3.75,"Blend-Forastero,Criollo",Dominican Republic,0,pink
+1009,Majani,2010,70.0,Italy,2.0,Unknown,Ecuador,1,purple
+1010,Malagasy (Chocolaterie Robert),2007,75.0,Madagascar,2.75,Trinitario,Madagascar,1,purple
+1011,Malagasy (Chocolaterie Robert),2007,73.0,Madagascar,3.5,Trinitario,Madagascar,0,pink
+1012,Malagos,2013,65.0,Philippines,3.5,Trinitario,Philippines,0,pink
+1013,Malie Kai (Guittard),2010,55.0,U.S.A.,3.5,Unknown,Hawaii,0,pink
+1014,Malie Kai (Guittard),2009,55.0,U.S.A.,2.75,Blend,Hawaii,1,purple
+1015,Malmo,2016,70.0,Sweden,3.0,Unknown,Venezuela,1,purple
+1016,Mana,2015,74.0,U.S.A.,2.5,Unknown,Ecuador,1,purple
+1017,Mana,2014,74.0,U.S.A.,2.5,Unknown,Peru,1,purple
+1018,Mana,2014,74.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+1019,Mana,2012,74.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+1020,Manifesto Cacao,2014,70.0,Colombia,2.75,Unknown,Colombia,1,purple
+1021,Manoa,2015,72.0,U.S.A.,3.5,Unknown,Papua New Guinea,0,pink
+1022,Manoa,2015,72.0,U.S.A.,3.75,Unknown,Costa Rica,0,pink
+1023,Manoa,2013,72.0,U.S.A.,3.75,Unknown,Hawaii,0,pink
+1024,Manoa,2012,72.0,U.S.A.,3.25,Unknown,Liberia,0,pink
+1025,Manoa,2012,72.0,U.S.A.,2.75,Unknown,Hawaii,1,purple
+1026,Manoa,2012,72.0,U.S.A.,3.0,Unknown,Peru,1,purple
+1027,Manoa,2012,72.0,U.S.A.,3.25,Unknown,Hawaii,0,pink
+1028,Manufaktura Czekolady,2016,70.0,Poland,3.75,Unknown,Nicaragua,0,pink
+1029,Manufaktura Czekolady,2016,70.0,Poland,3.5,Unknown,Peru,0,pink
+1030,Manufaktura Czekolady,2014,70.0,Poland,3.75,Criollo,Venezuela,0,pink
+1031,Manufaktura Czekolady,2014,85.0,Poland,3.5,Unknown,Colombia,2,dark purple
+1032,Manufaktura Czekolady,2012,70.0,Poland,3.25,Unknown,Dominican Republic,0,pink
+1033,Manufaktura Czekolady,2012,70.0,Poland,3.5,Forastero,Ghana,0,pink
+1034,Manufaktura Czekolady,2012,70.0,Poland,3.25,Unknown,Ecuador,0,pink
+1035,Map Chocolate,2016,75.0,U.S.A.,3.25,Trinitario,Vietnam,0,pink
+1036,Map Chocolate,2015,70.0,U.S.A.,3.5,"Criollo, Trinitario",Dominican Republic,0,pink
+1037,Map Chocolate,2015,62.0,U.S.A.,3.5,Forastero (Nacional),Peru,0,pink
+1038,Map Chocolate,2015,70.0,U.S.A.,3.5,Trinitario,Ecuador,0,pink
+1039,Map Chocolate,2015,70.0,U.S.A.,2.75,Trinitario,Trinidad,1,purple
+1040,Map Chocolate,2015,70.0,U.S.A.,3.5,Unknown,Nicaragua,0,pink
+1041,Map Chocolate,2015,68.0,U.S.A.,3.5,Criollo,Peru,0,pink
+1042,Map Chocolate,2015,75.0,U.S.A.,2.75,Unknown,Colombia,1,purple
+1043,Map Chocolate,2015,72.0,U.S.A.,3.0,Unknown,Tanzania,1,purple
+1044,Map Chocolate,2015,78.0,U.S.A.,3.5,Unknown,Honduras,0,pink
+1045,Marana,2016,70.0,Peru,3.0,Unknown,Peru,1,purple
+1046,Marana,2016,70.0,Peru,2.75,Unknown,Peru,1,purple
+1047,Marana,2016,70.0,Peru,3.0,Unknown,Peru,1,purple
+1048,Marigold's Finest,2016,75.0,Canada,3.25,Unknown,Unknown,0,pink
+1049,Marou,2015,85.0,Vietnam,3.25,Trinitario,Vietnam,2,dark purple
+1050,Marou,2015,68.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1051,Marou,2015,70.0,Vietnam,3.75,Trinitario,Vietnam,0,pink
+1052,Marou,2013,75.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1053,Marou,2012,76.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1054,Marou,2012,72.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1055,Marou,2012,70.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1056,Marou,2012,78.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1057,Marou,2012,80.0,Vietnam,3.0,Trinitario,Vietnam,2,dark purple
+1058,Marou,2012,74.0,Vietnam,3.5,Trinitario,Vietnam,0,pink
+1059,Mars,2010,65.0,U.S.A.,3.0,Unknown,Costa Rica,1,purple
+1060,Mars,2010,65.0,U.S.A.,3.0,Unknown,Ivory Coast,1,purple
+1061,Mars,2010,65.0,U.S.A.,3.25,Unknown,Nigeria,0,pink
+1062,Mars,2010,65.0,U.S.A.,3.5,Forastero,Ghana,0,pink
+1063,Marsatta,2013,74.0,U.S.A.,2.25,Unknown,Dominican Republic,1,purple
+1064,Marsatta,2013,89.0,U.S.A.,2.5,Unknown,Dominican Republic,2,dark purple
+1065,Martin Mayer,2016,76.0,Austria,2.75,Unknown,Bolivia,1,purple
+1066,Martin Mayer,2016,82.0,Austria,3.0,Unknown,Haiti,2,dark purple
+1067,Martin Mayer,2016,74.0,Austria,3.25,Unknown,Colombia,0,pink
+1068,Mast Brothers,2015,76.0,U.S.A.,3.0,Unknown,Guatemala,1,purple
+1069,Mast Brothers,2015,74.0,U.S.A.,3.25,Unknown,Tanzania,0,pink
+1070,Mast Brothers,2014,75.0,U.S.A.,3.75,Blend,"Peru, Belize",0,pink
+1071,Mast Brothers,2012,73.0,U.S.A.,3.5,Blend,"Peru, Mad., Dom. Rep.",0,pink
+1072,Mast Brothers,2012,72.0,U.S.A.,2.5,Trinitario,Unknown,1,purple
+1073,Mast Brothers,2012,73.0,U.S.A.,2.75,Trinitario,Venezuela,1,purple
+1074,Mast Brothers,2011,72.0,U.S.A.,3.5,Unknown,Unknown,0,pink
+1075,Mast Brothers,2011,76.0,U.S.A.,3.0,Trinitario,Venezuela,1,purple
+1076,Mast Brothers,2011,70.0,U.S.A.,3.0,Trinitario,Venezuela,1,purple
+1077,Mast Brothers,2011,81.0,U.S.A.,2.75,Trinitario,Venezuela,2,dark purple
+1078,Mast Brothers,2011,70.0,U.S.A.,3.5,Trinitario,Belize,0,pink
+1079,Mast Brothers,2011,71.0,U.S.A.,2.75,Unknown,Papua New Guinea,1,purple
+1080,Mast Brothers,2011,75.0,U.S.A.,3.0,Unknown,Peru,1,purple
+1081,Mast Brothers,2011,73.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+1082,Mast Brothers,2011,74.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+1083,Mast Brothers,2010,81.0,U.S.A.,2.75,Criollo,Venezuela,2,dark purple
+1084,Mast Brothers,2010,75.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+1085,Mast Brothers,2010,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+1086,Matale,2013,72.0,Australia,3.5,Trinitario,Vanuatu,0,pink
+1087,Matale,2013,68.0,Australia,4.0,Trinitario,Madagascar,0,pink
+1088,Matale,2013,74.0,Australia,4.0,Trinitario,Papua New Guinea,0,pink
+1089,Matale,2013,70.0,Australia,3.75,Trinitario,"PNG, Vanuatu, Mad",0,pink
+1090,Maverick,2014,70.0,U.S.A.,3.25,Trinitario,Belize,0,pink
+1091,Maverick,2014,70.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+1092,Maverick,2014,82.0,U.S.A.,3.25,Criollo,Peru,2,dark purple
+1093,Maverick,2014,63.0,U.S.A.,3.5,Criollo,Peru,0,pink
+1094,Mayacama,2016,72.0,U.S.A.,3.0,Unknown,Domincan Republic,1,purple
+1095,Meadowlands,2014,70.0,U.S.A.,2.5,Unknown,Bolivia,1,purple
+1096,Meadowlands,2014,70.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+1097,Meadowlands,2014,70.0,U.S.A.,3.0,Trinitario,Belize,1,purple
+1098,Meadowlands,2014,70.0,U.S.A.,3.0,Unknown,Nicaragua,1,purple
+1099,Meadowlands,2014,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+1100,Menakao (aka Cinagra),2012,80.0,Madagascar,2.5,Trinitario,Madagascar,2,dark purple
+1101,Menakao (aka Cinagra),2012,72.0,Madagascar,2.5,Trinitario,Madagascar,1,purple
+1102,Mesocacao,2015,80.0,Honduras,2.75,Unknown,El Salvador,2,dark purple
+1103,Mesocacao,2015,70.0,Honduras,3.0,Unknown,El Salvador,1,purple
+1104,Mesocacao,2014,80.0,Honduras,3.25,Unknown,Honduras,2,dark purple
+1105,Mesocacao,2014,70.0,Honduras,3.5,Unknown,Honduras,0,pink
+1106,Mesocacao,2014,70.0,Honduras,3.25,Unknown,Nicaragua,0,pink
+1107,Mesocacao,2014,80.0,Honduras,3.5,Unknown,Nicaragua,0,pink
+1108,Metiisto,2014,70.0,Sweden,3.0,Unknown,Brazil,1,purple
+1109,Metiisto,2014,72.0,Sweden,3.5,Trinitario,Madagascar,0,pink
+1110,Metropolitan,2015,70.0,Amsterdam,3.5,Trinitario,South America,0,pink
+1111,Michel Cluizel,2012,66.0,France,3.75,Unknown,Mexico,0,pink
+1112,Michel Cluizel,2007,66.0,France,3.5,Trinitario,Venezuela,0,pink
+1113,Michel Cluizel,2007,67.0,France,3.5,Forastero,Sao Tome,0,pink
+1114,Michel Cluizel,2006,60.0,France,2.0,Unknown,Unknown,1,purple
+1115,Michel Cluizel,2006,85.0,France,2.0,Unknown,Unknown,2,dark purple
+1116,Michel Cluizel,2006,70.0,France,3.0,Forastero,Sao Tome,1,purple
+1117,Michel Cluizel,2006,67.0,France,4.0,Unknown,Dominican Republic,0,pink
+1118,Michel Cluizel,2006,65.0,France,4.0,Trinitario,Madagascar,0,pink
+1119,Michel Cluizel,2006,64.0,France,4.0,Unknown,Papua New Guinea,0,pink
+1120,Michel Cluizel,2006,99.0,France,2.0,Unknown,Unknown,2,dark purple
+1121,Middlebury,2015,80.0,U.S.A.,3.5,Trinitario,Belize,0,pink
+1122,Middlebury,2015,70.0,U.S.A.,3.5,Trinitario,Trinidad,0,pink
+1123,Middlebury,2015,75.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+1124,Middlebury,2015,75.0,U.S.A.,3.75,Unknown,Venezuela,0,pink
+1125,Middlebury,2015,75.0,U.S.A.,3.25,Unknown,Tanzania,0,pink
+1126,Middlebury,2015,70.0,U.S.A.,3.5,Unknown,Nicaragua,0,pink
+1127,Middlebury,2013,75.0,U.S.A.,2.5,Unknown,Dominican Republic,1,purple
+1128,Middlebury,2013,80.0,U.S.A.,3.25,Trinitario,Belize,2,dark purple
+1129,Middlebury,2012,65.0,U.S.A.,1.5,Unknown,Unknown,1,purple
+1130,Middlebury,2012,75.0,U.S.A.,2.0,Criollo,Bolivia,1,purple
+1131,Middlebury,2012,70.0,U.S.A.,2.5,Criollo,Indonesia,1,purple
+1132,Millcreek Cacao Roasters,2013,70.0,U.S.A.,2.5,Forastero (Nacional),Ecuador,1,purple
+1133,Millcreek Cacao Roasters,2012,70.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1134,Mindo,2010,67.0,U.S.A.,2.75,Unknown,Ecuador,1,purple
+1135,Mindo,2010,77.0,U.S.A.,2.75,Unknown,Ecuador,1,purple
+1136,Minimal,2016,70.0,Japan,3.5,"Criollo, Trinitario",Haiti,0,pink
+1137,Mission,2016,75.0,Brazil,3.75,Unknown,Brazil,0,pink
+1138,Mission,2015,70.0,Brazil,3.5,Forastero (Parazinho),Brazil,0,pink
+1139,Mita,2012,65.0,Colombia,2.5,Unknown,Colombia,1,purple
+1140,Moho,2013,73.0,U.S.A.,3.25,Trinitario,Belize,0,pink
+1141,Moho,2013,72.0,U.S.A.,3.0,Trinitario,Belize,1,purple
+1142,Moho,2010,67.0,U.S.A.,2.75,Trinitario,Belize,1,purple
+1143,Molucca,2015,70.0,U.S.A.,3.0,Unknown,Domincan Republic,1,purple
+1144,Molucca,2015,70.0,U.S.A.,2.75,Unknown,Indonesia,1,purple
+1145,Molucca,2015,70.0,U.S.A.,3.25,Unknown,Peru,0,pink
+1146,Momotombo,2011,70.0,Nicaragua,2.75,Unknown,Nicaragua,1,purple
+1147,Momotombo,2011,70.0,Nicaragua,2.75,Unknown,Nicaragua,1,purple
+1148,Momotombo,2011,70.0,Nicaragua,3.25,Unknown,Nicaragua,0,pink
+1149,Monarque,2016,72.0,Canada,3.5,Unknown,Dominican Republic,0,pink
+1150,Monsieur Truffe,2014,70.0,Australia,3.25,Unknown,Papua New Guinea,0,pink
+1151,Montecristi,2015,70.0,Ecuador,3.25,Unknown,Ecuador,0,pink
+1152,Montecristi,2015,63.0,Ecuador,3.5,Unknown,Ecuador,0,pink
+1153,Montecristi,2015,85.0,Ecuador,3.5,Unknown,Ecuador,2,dark purple
+1154,Muchomas (Mesocacao),2015,70.0,U.S.A.,3.5,Unknown,Nicaragua,0,pink
+1155,Muchomas (Mesocacao),2015,80.0,U.S.A.,3.5,Unknown,Nicaragua,0,pink
+1156,Mutari,2016,68.0,U.S.A.,2.75,Unknown,Tanzania,1,purple
+1157,Mutari,2016,71.0,U.S.A.,2.75,Unknown,Domincan Republic,1,purple
+1158,Mutari,2016,68.0,U.S.A.,2.75,Unknown,Madagascar,1,purple
+1159,Mutari,2016,80.0,U.S.A.,3.0,Trinitario,Vietnam,2,dark purple
+1160,Nahua,2013,58.0,Costa Rica,2.5,Unknown,Costa Rica,1,purple
+1161,Nahua,2013,70.0,Costa Rica,3.0,Unknown,Costa Rica,1,purple
+1162,Naive,2013,70.0,Lithuania,3.75,Unknown,"Trinidad, Tobago",0,pink
+1163,Naive,2013,78.0,Lithuania,3.75,Forastero (Nacional),Peru,0,pink
+1164,Naive,2012,71.0,Lithuania,2.5,Trinitario,Grenada,1,purple
+1165,Na�ve,2014,70.0,Lithuania,3.25,Criollo,Nicaragua,0,pink
+1166,Na�ve,2014,75.0,Lithuania,2.75,Trinitario,Venezuela,1,purple
+1167,Na�ve,2014,70.0,Lithuania,3.0,Unknown,Venezuela,1,purple
+1168,Nanea,2013,85.0,U.S.A.,3.5,Unknown,Hawaii,2,dark purple
+1169,Nathan Miller,2014,72.0,U.S.A.,2.25,Unknown,Peru,1,purple
+1170,Nathan Miller,2014,70.0,U.S.A.,2.5,Unknown,Dominican Republic,1,purple
+1171,Nathan Miller,2014,73.5,U.S.A.,2.5,Trinitario,Madagascar,1,purple
+1172,Nathan Miller,2014,70.0,U.S.A.,3.5,Forastero,Ghana,0,pink
+1173,Neuhaus (Callebaut),2010,70.0,Belgium,2.5,Criollo,Papua New Guinea,1,purple
+1174,Neuhaus (Callebaut),2008,67.0,Belgium,3.75,Trinitario,Trinidad,0,pink
+1175,Neuhaus (Callebaut),2007,73.0,Belgium,1.0,Unknown,Unknown,1,purple
+1176,Neuhaus (Callebaut),2006,73.0,Belgium,2.0,Forastero,West Africa,1,purple
+1177,Neuhaus (Callebaut),2006,75.0,Belgium,2.75,Forastero,Sao Tome,1,purple
+1178,Neuhaus (Callebaut),2006,71.0,Belgium,3.0,Criollo,Venezuela,1,purple
+1179,Nibble,2015,72.0,U.S.A.,2.25,Criollo,Venezuela,1,purple
+1180,Nibble,2015,72.0,U.S.A.,2.75,Trinitario,Dominican Republic,1,purple
+1181,Nibble,2015,72.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+1182,Nibble,2015,72.0,U.S.A.,3.0,Criollo,Peru,1,purple
+1183,Night Owl,2013,75.0,U.S.A.,2.75,Unknown,Peru,1,purple
+1184,Night Owl,2013,75.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1185,Noble Bean aka Jerjobo,2014,75.0,U.S.A.,3.0,Forastero,Ghana,1,purple
+1186,Noble Bean aka Jerjobo,2014,75.0,U.S.A.,3.0,Trinitario,Belize,1,purple
+1187,Noble Bean aka Jerjobo,2014,75.0,U.S.A.,3.25,Forastero (Nacional),Peru,0,pink
+1188,Noir d' Ebine,2012,70.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+1189,Noir d' Ebine,2012,70.0,U.S.A.,3.0,Unknown,Ecuador,1,purple
+1190,Nova Monda,2012,70.0,Nicaragua,3.0,Unknown,Nicaragua,1,purple
+1191,Nova Monda,2012,75.0,Niacragua,2.75,Unknown,Nicaragua,1,purple
+1192,Nova Monda,2012,80.0,Nicaragua,3.25,Forastero (Nacional),Ecuador,2,dark purple
+1193,Nuance,2015,70.0,U.S.A.,3.75,Forastero,Ghana,0,pink
+1194,Nuance,2015,70.0,U.S.A.,2.75,Trinitario,Ecuador,1,purple
+1195,Nuance,2015,70.0,U.S.A.,3.0,Criollo,Venezuela,1,purple
+1196,Nuance,2015,70.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+1197,Nuance,2015,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+1198,Nugali,2016,70.0,Brazil,3.5,Trinitario (Scavina),Brazil,0,pink
+1199,Oakland Chocolate Co.,2010,70.0,U.S.A.,2.5,Trinitario,Jamaica,1,purple
+1200,Obolo,2015,70.0,Chile,3.75,Criollo,Peru,0,pink
+1201,Obolo,2015,70.0,Chile,3.75,Criollo,Peru,0,pink
+1202,Ocelot,2015,70.0,Scotland,3.75,Forastero,Congo,0,pink
+1203,Ocelot,2015,75.0,Scotland,4.0,Criollo,Peru,0,pink
+1204,Ocho,2016,100.0,New Zealand,2.75,Unknown,Samoa,2,dark purple
+1205,Ocho,2016,70.0,New Zealand,3.5,Unknown,Samoa,0,pink
+1206,Ocho,2014,66.0,New Zealand,2.75,Unknown,Papua New Guinea,1,purple
+1207,Ocho,2014,70.0,New Zealand,3.0,Unknown,Papua New Guinea,1,purple
+1208,Ocho,2014,88.0,New Zealand,3.25,Unknown,Papua New Guinea,2,dark purple
+1209,Ocho,2014,74.0,New Zealand,3.5,Unknown,Papua New Guinea,0,pink
+1210,Ohiyo,2015,70.0,U.S.A.,2.75,Trinitario,Trinidad,1,purple
+1211,Ohiyo,2015,70.0,U.S.A.,3.0,Unknown,Tanzania,1,purple
+1212,Oialla by Bojessen (Malmo),2011,70.0,Germany,3.5,Criollo,Bolivia,0,pink
+1213,Olive and Sinclair,2010,72.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1214,Olive and Sinclair,2010,72.0,U.S.A.,3.0,Forastero,Ghana,1,purple
+1215,Olive and Sinclair,2009,67.0,U.S.A.,2.75,Unknown,"Ghana, Domin. Rep",1,purple
+1216,Olive and Sinclair,2009,75.0,U.S.A.,3.0,Unknown,"Ghana, Domin. Rep",1,purple
+1217,Olivia,2011,76.0,Canada,2.0,Unknown,Carribean,1,purple
+1218,Olivia,2011,76.0,Canada,2.75,Unknown,Carribean,1,purple
+1219,Olivia,2011,85.0,Canada,2.75,Unknown,Carribean,2,dark purple
+1220,Olivia,2011,85.0,Canada,3.0,Unknown,Carribean,2,dark purple
+1221,Omanhene,2011,80.0,Ghana,2.75,Forastero,Ghana,2,dark purple
+1222,Omnom,2016,70.0,Iceland,3.75,Trinitario,Tanzania,0,pink
+1223,Omnom,2014,70.0,Iceland,3.0,Unknown,Papua New Guinea,1,purple
+1224,Omnom,2014,66.0,Iceland,3.5,Trinitario,Madagascar,0,pink
+1225,organicfair,2013,74.0,Canada,2.75,Trinitario,Belize,1,purple
+1226,organicfair,2013,72.0,Canada,2.75,Unknown,Dominican Republic,1,purple
+1227,organicfair,2013,72.0,Canada,2.75,Trinitario,Nicaragua,1,purple
+1228,organicfair,2013,72.0,Canada,3.0,Unknown,Dominican Republic,1,purple
+1229,organicfair,2013,72.0,Canada,3.0,Trinitario,Ecuador,1,purple
+1230,Original Beans (Felchlin),2014,68.0,Switzerland,2.75,Unknown,Papua New Guinea,1,purple
+1231,Original Beans (Felchlin),2014,80.0,Switzerland,3.25,Blend,Unknown,2,dark purple
+1232,Original Beans (Felchlin),2011,66.0,Switzerland,3.75,Unknown,Bolivia,0,pink
+1233,Original Beans (Felchlin),2009,70.0,Switzerland,3.0,Forastero,Congo,1,purple
+1234,Original Beans (Felchlin),2009,75.0,Switzerland,3.0,Criollo,Peru,1,purple
+1235,Original Beans (Felchlin),2009,68.0,Switzerland,3.25,Unknown,Bolivia,0,pink
+1236,Original Hawaiin Chocolate Factory,2009,60.0,U.S.A.,3.0,Criollo,Hawaii,1,purple
+1237,Original Hawaiin Chocolate Factory,2006,60.0,U.S.A.,3.0,Unknown,Hawaii,1,purple
+1238,Orquidea,2012,65.0,Peru,3.0,Unknown,Peru,1,purple
+1239,Orquidea,2012,72.0,Peru,3.0,Unknown,Peru,1,purple
+1240,Pacari,2016,70.0,Ecuador,4.0,Unknown,Colombia,0,pink
+1241,Pacari,2014,70.0,Ecuador,3.25,Unknown,Ecuador,0,pink
+1242,Pacari,2014,70.0,Ecuador,3.5,Unknown,Ecuador,0,pink
+1243,Pacari,2014,70.0,Ecuador,3.75,Unknown,Ecuador,0,pink
+1244,Pacari,2014,70.0,Ecuador,4.0,Unknown,Ecuador,0,pink
+1245,Pacari,2012,85.0,Ecuador,2.75,Unknown,Ecuador,2,dark purple
+1246,Pacari,2012,70.0,Ecuador,4.0,Unknown,Peru,0,pink
+1247,Pacari,2011,70.0,Ecuador,3.5,Unknown,Ecuador,0,pink
+1248,Pacari,2008,60.0,Ecuador,2.5,Forastero (Arriba),Ecuador,1,purple
+1249,Pacari,2008,65.0,Ecuador,2.75,Forastero (Arriba),Ecuador,1,purple
+1250,Pacari,2008,72.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1,purple
+1251,Pacari,2008,100.0,Ecuador,2.0,Forastero (Arriba),Ecuador,2,dark purple
+1252,Pacari,2008,70.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0,pink
+1253,Palette de Bine,2016,70.0,Canada,2.75,Unknown,Guatemala,1,purple
+1254,Palette de Bine,2016,72.0,Canada,3.0,Trinitario,Belize,1,purple
+1255,Palette de Bine,2015,70.0,Canada,3.25,Unknown,Bolivia,0,pink
+1256,Palette de Bine,2015,70.0,Canada,3.25,Trinitario,Trinidad,0,pink
+1257,Palette de Bine,2015,72.0,Canada,3.5,Unknown,Tanzania,0,pink
+1258,Palette de Bine,2015,72.0,Canada,3.75,Trinitario,Vietnam,0,pink
+1259,Palette de Bine,2014,72.0,Canada,2.75,Unknown,Bolivia,1,purple
+1260,Palette de Bine,2014,78.0,Canada,3.75,Trinitario,Madagascar,0,pink
+1261,Palette de Bine,2014,75.0,Canada,2.75,Unknown,Ecuador,1,purple
+1262,Palette de Bine,2014,75.0,Canada,3.5,Blend,"Trinidad, Ecuador",0,pink
+1263,Palette de Bine,2014,70.0,Canada,3.75,Trinitario,Trinidad,0,pink
+1264,Pangea,2016,76.0,Spain,3.0,Unknown,Fiji,1,purple
+1265,Park 75,2014,65.0,U.S.A.,3.5,Unknown,South America,0,pink
+1266,Parliament,2016,70.0,U.S.A.,3.25,Unknown,Tanzania,0,pink
+1267,Parliament,2015,70.0,U.S.A.,3.5,Unknown,Guatemala,0,pink
+1268,Parliament,2014,70.0,U.S.A.,3.0,Unknown,Bolivia,1,purple
+1269,Parliament,2014,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+1270,Pascha,2013,55.0,Peru,2.5,Unknown,Peru,1,purple
+1271,Pascha,2013,70.0,Peru,2.75,Unknown,Peru,1,purple
+1272,Patric,2011,70.0,U.S.A.,3.75,Blend,Unknown,0,pink
+1273,Patric,2009,75.0,U.S.A.,4.0,Trinitario,Madagascar,0,pink
+1274,Patric,2009,67.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+1275,Patric,2009,70.0,U.S.A.,3.5,Trinitario,Venezuela,0,pink
+1276,Patric,2007,70.0,U.S.A.,4.0,Trinitario,Madagascar,0,pink
+1277,Patric,2013,67.0,U.S.A.,4.0,Unknown,Peru,0,pink
+1278,Paul Young,2014,73.0,U.K.,2.25,Trinitario,Madagascar,1,purple
+1279,Paul Young,2014,64.0,U.K.,2.75,Trinitario,Madagascar,1,purple
+1280,Peppalo,2015,82.0,U.S.A.,3.0,Unknown,Dominican Republic,2,dark purple
+1281,Pierre Marcolini,2015,70.0,Belgium,3.25,Forastero,Cameroon,0,pink
+1282,Pierre Marcolini,2010,75.0,Belgium,3.0,Criollo,Venezuela,1,purple
+1283,Pierre Marcolini,2010,75.0,Belgium,3.25,Trinitario,Trinidad,0,pink
+1284,Pierre Marcolini,2010,78.0,Belgium,3.75,"Criollo, Forastero",Cuba,0,pink
+1285,Pierre Marcolini,2010,85.0,Belgium,3.0,Criollo,Peru,2,dark purple
+1286,Pierre Marcolini,2009,72.0,Belgium,3.0,Forastero,Brazil,1,purple
+1287,Pierre Marcolini,2009,72.0,Belgium,3.0,Criollo,Mexico,1,purple
+1288,Pierre Marcolini,2007,70.0,Belgium,4.0,Blend,"Venezuela, Java",0,pink
+1289,Pierre Marcolini,2007,72.0,Belgium,3.75,Forastero (Nacional),Ecuador,0,pink
+1290,Pierre Marcolini,2007,72.0,Belgium,4.0,Trinitario,Madagascar,0,pink
+1291,Pierre Marcolini,2007,85.0,Belgium,3.5,Blend,Venezuela/ Ghana,2,dark purple
+1292,Pierre Marcolini,2006,72.0,Belgium,4.0,Criollo,Mexico,0,pink
+1293,Pierre Marcolini,2006,72.0,Belgium,3.0,Criollo,Indonesia,1,purple
+1294,Pierre Marcolini,2006,72.0,Belgium,4.0,Criollo,Venezuela,0,pink
+1295,Pinellas,2016,80.0,U.S.A.,2.5,Unknown,Honduras,2,dark purple
+1296,Pitch Dark,2015,62.0,U.S.A.,2.5,Unknown,Nicaragua,1,purple
+1297,Pitch Dark,2015,80.0,U.S.A.,2.75,Unknown,Nicaragua,2,dark purple
+1298,Pitch Dark,2015,80.0,U.S.A.,2.75,"Criollo, Trinitario",Nicaragua,2,dark purple
+1299,Pitch Dark,2015,80.0,U.S.A.,2.75,Trinitario,Nicaragua,2,dark purple
+1300,Pitch Dark,2015,80.0,U.S.A.,3.25,Unknown,Nicaragua,2,dark purple
+1301,Pitch Dark,2014,73.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+1302,Pitch Dark,2014,73.0,U.S.A.,2.5,Trinitario,Fiji,1,purple
+1303,Pitch Dark,2014,73.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1304,Pitch Dark,2014,73.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1305,Pomm (aka Dead Dog),2012,76.0,U.S.A.,2.5,Unknown,Dominican Republic,1,purple
+1306,Pomm (aka Dead Dog),2012,82.0,U.S.A.,2.75,Criollo,Peru,2,dark purple
+1307,Potomac,2016,70.0,U.S.A.,3.75,Unknown,Domincan Republic,0,pink
+1308,Potomac,2014,70.0,U.S.A.,3.75,Unknown,Venezuela,0,pink
+1309,Potomac,2011,70.0,U.S.A.,3.5,Matina,Costa Rica,0,pink
+1310,Potomac,2011,70.0,U.S.A.,3.0,Matina,Costa Rica,1,purple
+1311,Potomac,2011,70.0,U.S.A.,2.75,Unknown,Peru,1,purple
+1312,Potomac,2011,70.0,U.S.A.,3.5,Unknown,Brazil,0,pink
+1313,Potomac,2010,82.0,U.S.A.,3.75,Matina,Costa Rica,0,pink
+1314,Pralus,2015,75.0,France,3.25,Unknown,Peru,0,pink
+1315,Pralus,2011,75.0,France,3.25,Criollo (Porcelana),Venezuela,0,pink
+1316,Pralus,2010,75.0,France,3.5,Trinitario,Venezuela,0,pink
+1317,Pralus,2009,75.0,France,2.0,Unknown,Venezuela,1,purple
+1318,Pralus,2008,75.0,France,3.0,Trinitario,Papua New Guinea,1,purple
+1319,Pralus,2008,100.0,France,3.0,Criollo,Madagascar,2,dark purple
+1320,Pralus,2008,75.0,France,2.0,Unknown,Dominican Republic,1,purple
+1321,Pralus,2008,75.0,France,3.5,Unknown,Brazil,0,pink
+1322,Pralus,2007,75.0,France,4.0,Forastero,Sao Tome,0,pink
+1323,Pralus,2006,75.0,France,3.0,Forastero,Brazil,1,purple
+1324,Pralus,2006,75.0,France,3.5,Criollo,Tanzania,0,pink
+1325,Pralus,2006,75.0,France,3.5,Forastero,Sao Tome & Principe,0,pink
+1326,Pralus,2006,75.0,France,3.5,Trinitario,Trinidad,0,pink
+1327,Pralus,2006,75.0,France,3.75,Criollo,Madagascar,0,pink
+1328,Pralus,2006,75.0,France,3.5,Criollo,Indonesia,0,pink
+1329,Pralus,2006,75.0,France,3.5,Trinitario,Venezuela,0,pink
+1330,Pralus,2006,75.0,France,4.0,Trinitario,Jamaica,0,pink
+1331,Pralus,2006,75.0,France,3.0,Trinitario,Ecuador,1,purple
+1332,Pralus,2006,75.0,France,3.0,Trinitario,Vanuatu,1,purple
+1333,Pralus,2006,75.0,France,3.25,Forastero,Ghana,0,pink
+1334,Pralus,2006,75.0,France,3.5,Trinitario,Colombia,0,pink
+1335,Pralus,2006,80.0,France,4.0,"Criollo, Trinitario",Ecuador,0,pink
+1336,Pralus,2006,75.0,France,3.0,Trinitario,Cuba,1,purple
+1337,Pralus,2006,75.0,France,3.0,"Trinitario, Forastero","Venezuela, Ghana",1,purple
+1338,Pralus,2006,75.0,France,3.5,"Criollo, Forastero","Indonesia, Ghana",0,pink
+1339,Pump Street Bakery,2016,77.0,U.K.,3.5,Unknown,Ecuador,0,pink
+1340,Pump Street Bakery,2015,70.0,U.K.,3.5,Trinitario,Grenada,0,pink
+1341,Pump Street Bakery,2015,74.0,U.K.,3.5,Criollo,Madagascar,0,pink
+1342,Pump Street Bakery,2015,80.0,U.K.,2.75,Unknown,Honduras,2,dark purple
+1343,Pump Street Bakery,2014,75.0,U.K.,2.75,Trinitario,Venezuela,1,purple
+1344,Pump Street Bakery,2014,75.0,U.K.,3.0,Forastero (Nacional),Ecuador,1,purple
+1345,Pump Street Bakery,2014,72.0,U.K.,3.25,Trinitario,Madagascar,0,pink
+1346,Pump Street Bakery,2014,85.0,U.K.,2.75,Forastero (Nacional),Ecuador,2,dark purple
+1347,Pura Delizia,2012,73.0,Italy,2.75,Unknown,Venezuela,1,purple
+1348,Q Chocolate,2013,75.0,Brazil,3.25,Unknown,Brazil,0,pink
+1349,Q Chocolate,2013,85.0,Brazil,3.5,Unknown,Brazil,2,dark purple
+1350,Q Chocolate,2013,55.0,Brazil,2.75,Unknown,Brazil,1,purple
+1351,Q Chocolate,2013,80.0,Brazil,3.25,Unknown,Brazil,2,dark purple
+1352,Q Chocolate,2012,60.0,Brazil,3.0,Unknown,Brazil,1,purple
+1353,Q Chocolate,2012,65.0,Brazil,3.25,Unknown,Brazil,0,pink
+1354,Quetzalli (Wolter),2016,70.0,Mexico,2.75,Criollo,Mexico,1,purple
+1355,Quetzalli (Wolter),2016,74.0,Mexico,3.0,Trinitario,Mexico,1,purple
+1356,Raaka,2016,70.0,U.S.A.,3.0,Unknown,"Peru(SMartin,Pangoa,nacional)",1,purple
+1357,Raaka,2015,75.0,U.S.A.,2.75,Forastero,Congo,1,purple
+1358,Raaka,2012,75.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+1359,Raaka,2011,85.0,U.S.A.,3.5,Unknown,Dominican Republic,2,dark purple
+1360,Rain Republic,2010,70.0,Guatemala,2.75,Unknown,Guatemala,1,purple
+1361,Rancho San Jacinto,2010,75.0,Eucador,3.0,"Forastero(Arriba, CCN)",Ecuador,1,purple
+1362,Ranger,2015,70.0,U.S.A.,2.5,Unknown,Peru,1,purple
+1363,Ranger,2015,80.0,U.S.A.,3.25,Unknown,Peru,2,dark purple
+1364,Ranger,2015,73.0,U.S.A.,3.5,Criollo,Peru,0,pink
+1365,Raoul Boulanger,2016,75.0,France,3.25,Criollo,Peru,0,pink
+1366,Raw Cocoa,2012,70.0,Poland,2.5,Criollo,Unknown,1,purple
+1367,Republica del Cacao (aka Confecta),2010,75.0,Ecuador,3.25,Unknown,Ecuador,0,pink
+1368,Republica del Cacao (aka Confecta),2009,75.0,Ecuador,2.5,Forastero (Arriba),Ecuador,1,purple
+1369,Republica del Cacao (aka Confecta),2007,75.0,Ecuador,3.0,Forastero (Arriba),Ecuador,1,purple
+1370,Republica del Cacao (aka Confecta),2007,67.0,Ecuador,3.5,Forastero (Arriba),Ecuador,0,pink
+1371,Republica del Cacao (aka Confecta),2007,75.0,Ecuador,3.75,Forastero (Arriba),Ecuador,0,pink
+1372,Ritual,2016,75.0,U.S.A.,3.75,Unknown,Ecuador,0,pink
+1373,Ritual,2015,85.0,U.S.A.,3.5,Unknown,Ecuador,2,dark purple
+1374,Ritual,2015,70.0,U.S.A.,3.5,Blend,Unknown,0,pink
+1375,Ritual,2013,75.0,U.S.A.,3.75,Trinitario,Belize,0,pink
+1376,Ritual,2013,75.0,U.S.A.,3.0,Forastero (Nacional),Peru,1,purple
+1377,Ritual,2012,75.0,U.S.A.,4.0,Trinitario,Madagascar,0,pink
+1378,Ritual,2012,75.0,U.S.A.,3.25,Nacional (Arriba),Ecuador,0,pink
+1379,Ritual,2012,75.0,U.S.A.,3.5,Trinitario,Trinidad,0,pink
+1380,Ritual,2011,75.0,U.S.A.,3.5,Unknown,Costa Rica,0,pink
+1381,Roasting Masters,2016,70.0,South Korea,3.25,Unknown,Costa Rica,0,pink
+1382,Roasting Masters,2016,70.0,South Korea,3.25,Unknown,Costa Rica,0,pink
+1383,Roasting Masters,2016,70.0,South Korea,3.25,Unknown,Costa Rica,0,pink
+1384,Robert (aka Chocolaterie Robert),2013,75.0,Madagascar,3.25,Trinitario,Madagascar,0,pink
+1385,Robert (aka Chocolaterie Robert),2013,68.0,Madagascar,3.25,Trinitario,Madagascar,0,pink
+1386,Rococo (Grenada Chocolate Co.),2012,66.0,U.K.,3.5,Trinitario,Grenada,0,pink
+1387,Rogue,2016,75.0,U.S.A.,3.75,Unknown,Honduras,0,pink
+1388,Rogue,2015,70.0,U.S.A.,3.75,Unknown,Venezuela,0,pink
+1389,Rogue,2015,75.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+1390,Rogue,2014,80.0,U.S.A.,3.75,Criollo,Venezuela,0,pink
+1391,Rogue,2013,70.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+1392,Rogue,2013,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+1393,Rogue,2013,75.0,U.S.A.,4.0,Unknown,Bolivia,0,pink
+1394,Rogue,2013,75.0,U.S.A.,3.75,Trinitario,Jamaica,0,pink
+1395,Rogue,2012,75.0,U.S.A.,3.75,Nacional (Arriba),Ecuador,0,pink
+1396,Rogue,2011,75.0,U.S.A.,3.0,Criollo,Bolivia,1,purple
+1397,Rogue,2010,75.0,U.S.A.,3.75,Unknown,Peru,0,pink
+1398,Rogue,2009,70.0,U.S.A.,3.5,Trinitario,Venezuela,0,pink
+1399,Rogue,2008,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+1400,Rogue,2008,70.0,U.S.A.,2.75,Trinitario,Jamaica,1,purple
+1401,Rogue,2008,70.0,U.S.A.,2.75,Trinitario,Madagascar,1,purple
+1402,Rogue,2008,70.0,U.S.A.,3.0,Trinitario,Trinidad,1,purple
+1403,Rozsavolgyi,2012,84.0,Hungary,2.5,Unknown,Venezuela,2,dark purple
+1404,Rozsavolgyi,2012,76.0,Hungary,2.25,Trinitario,Venezuela,1,purple
+1405,Rozsavolgyi,2012,72.0,Hungary,2.5,Trinitario,Madagascar,1,purple
+1406,Rozsavolgyi,2011,73.0,Hungary,3.5,Criollo,Venezuela,0,pink
+1407,Rozsavolgyi,2011,71.0,Hungary,2.5,Unknown,Venezuela,1,purple
+1408,Rozsavolgyi,2011,70.0,Hungary,3.5,Unknown,Venezuela,0,pink
+1409,Rozsavolgyi,2011,77.0,Hungary,2.75,Forastero,Principe,1,purple
+1410,S.A.I.D.,2010,64.0,Italy,3.5,Trinitario,Madagascar,0,pink
+1411,S.A.I.D.,2010,100.0,Italy,1.5,Unknown,Unknown,2,dark purple
+1412,S.A.I.D.,2010,70.0,Italy,3.0,Unknown,Dominican Republic,1,purple
+1413,S.A.I.D.,2010,72.0,Italy,3.5,Unknown,Carribean,0,pink
+1414,S.A.I.D.,2010,72.0,Italy,3.5,Unknown,Unknown,0,pink
+1415,Sacred,2012,83.0,U.S.A.,2.75,Unknown,Central and S. America,2,dark purple
+1416,Sacred,2012,69.0,U.S.A.,3.25,Unknown,Central and S. America,0,pink
+1417,Salgado,2008,70.0,Argentina,3.5,Forastero,Brazil,0,pink
+1418,Salgado,2008,70.0,Argentina,3.5,Forastero (Nacional),Ecuador,0,pink
+1419,Salgado,2008,70.0,Argentina,3.5,Trinitario,Venezuela,0,pink
+1420,Salgado,2008,70.0,Argentina,3.5,Forastero (Arriba) ASSS,Ecuador,0,pink
+1421,Santander (Compania Nacional),2009,75.0,Colombia,2.75,Forastero (Nacional),Colombia,1,purple
+1422,Santander (Compania Nacional),2009,70.0,Colombia,3.0,Forastero (Nacional),Colombia,1,purple
+1423,Santander (Compania Nacional),2006,53.0,Colombia,2.0,Forastero (Nacional),Colombia,1,purple
+1424,Santander (Compania Nacional),2006,65.0,Colombia,3.0,Forastero (Nacional),Colombia,1,purple
+1425,Santander (Compania Nacional),2006,70.0,Colombia,4.0,Forastero (Nacional),Colombia,0,pink
+1426,Santome,2011,70.0,France,2.75,Forastero,Sao Tome,1,purple
+1427,Scharffen Berger,2012,78.0,U.S.A.,4.0,Unknown,Peru,0,pink
+1428,Scharffen Berger,2011,68.0,U.S.A.,3.75,Unknown,Papua New Guinea,0,pink
+1429,Scharffen Berger,2010,68.0,U.S.A.,3.5,Trinitario,Grenada,0,pink
+1430,Scharffen Berger,2010,65.0,U.S.A.,3.75,"Trinitario, Criollo",Madagascar,0,pink
+1431,Scharffen Berger,2009,68.0,U.S.A.,3.75,Unknown,Brazil,0,pink
+1432,Scharffen Berger,2009,65.0,U.S.A.,4.0,Forastero,Ghana,0,pink
+1433,Scharffen Berger,2009,72.0,U.S.A.,3.75,Trinitario,Vietnam,0,pink
+1434,Scharffen Berger,2008,72.0,U.S.A.,3.0,Blend,"Ven., Trinidad, Mad.",1,purple
+1435,Scharffen Berger,2007,72.0,U.S.A.,3.0,Blend,Carribean(DR/Jam/Tri),1,purple
+1436,Scharffen Berger,2007,62.0,U.S.A.,3.0,Unknown,Unknown,1,purple
+1437,Scharffen Berger,2007,75.0,U.S.A.,3.75,Unknown,Venezuela,0,pink
+1438,Scharffen Berger,2007,75.0,U.S.A.,3.0,Blend,Carribean,1,purple
+1439,Scharffen Berger,2006,82.0,U.S.A.,2.0,Unknown,Unknown,2,dark purple
+1440,Scharffen Berger,2006,70.0,U.S.A.,3.5,Blend,Unknown,0,pink
+1441,Scharffen Berger,2006,68.0,U.S.A.,2.0,Blend,Ghana & Madagascar,1,purple
+1442,Scharffen Berger,2006,70.0,U.S.A.,2.0,Trinitario,Jamaica,1,purple
+1443,Scharffen Berger,2006,62.0,U.S.A.,3.0,Blend,Unknown,1,purple
+1444,Seaforth,2015,70.0,U.K.,2.75,Unknown,Domincan Republic,1,purple
+1445,Seaforth,2015,70.0,U.K.,2.75,Unknown,Grenada,1,purple
+1446,Shark Mountain,2015,72.0,U.S.A.,3.25,Trinitario,Jamaica,0,pink
+1447,Shark Mountain,2015,73.0,U.S.A.,3.5,Forastero,Papua New Guinea,0,pink
+1448,Shark Mountain,2015,77.0,U.S.A.,2.75,Criollo,Venezuela,1,purple
+1449,Shark Mountain,2015,74.0,U.S.A.,3.5,"Criollo, Trinitario",Dominican Republic,0,pink
+1450,Shark Mountain,2014,75.0,U.S.A.,3.0,Trinitario,Ecuador,1,purple
+1451,Shark Mountain,2014,72.0,U.S.A.,3.25,"Criollo, Trinitario",Belize,0,pink
+1452,Shark's,2011,73.0,U.S.A.,2.0,Unknown,Hawaii,1,purple
+1453,Shark's,2011,73.0,U.S.A.,2.5,Unknown,Hawaii,1,purple
+1454,Shattel,2016,70.0,Peru,3.25,Unknown,Peru,0,pink
+1455,Shattell,2011,75.0,Peru,3.5,Criollo,Peru,0,pink
+1456,Sibu,2015,82.0,Costa Rica,3.25,Unknown,Costa Rica,2,dark purple
+1457,Sibu,2015,70.0,Costa Rica,3.5,Unknown,Costa Rica,0,pink
+1458,Sibu Sura,2012,70.0,U.S.A.,2.5,Unknown,Peru,1,purple
+1459,Silvio Bessone,2011,67.0,Italy,3.0,Criollo,Belize,1,purple
+1460,Silvio Bessone,2011,65.0,Italy,3.25,Forastero,Sao Tome,0,pink
+1461,Silvio Bessone,2011,60.0,Italy,3.25,Trinitario,Brazil,0,pink
+1462,Silvio Bessone,2011,68.0,Italy,3.0,"Criollo, Trinitario",Colombia,1,purple
+1463,Sirene,2016,73.0,Canada,3.5,Unknown,Bolivia,0,pink
+1464,Sirene,2016,73.0,Canada,3.5,Unknown,Tanzania,0,pink
+1465,Sirene,2016,73.0,Canada,3.75,Unknown,Ecuador,0,pink
+1466,Sirene,2015,100.0,Canada,3.0,Trinitario,Madagascar,2,dark purple
+1467,Sirene,2015,100.0,Canada,3.0,Unknown,Ecuador,2,dark purple
+1468,Sirene,2015,73.0,Canada,3.0,Unknown,Guatemala,1,purple
+1469,Sirene,2015,73.0,Canada,3.25,Unknown,Guatemala,0,pink
+1470,Sirene,2015,73.0,Canada,3.25,Unknown,Haiti,0,pink
+1471,Sirene,2014,67.0,Canada,3.75,Trinitario,Madagascar,0,pink
+1472,Sirene,2014,73.0,Canada,3.75,Trinitario,Madagascar,0,pink
+1473,Sirene,2014,73.0,Canada,3.75,Unknown,Ecuador,0,pink
+1474,Sjolinds,2015,70.0,U.S.A.,2.75,Forastero,Ghana,1,purple
+1475,Sjolinds,2015,72.0,U.S.A.,3.0,Unknown,Nicaragua,1,purple
+1476,"Smooth Chocolator, The",2017,70.0,Australia,3.5,Unknown,Dominican Republic,0,pink
+1477,"Smooth Chocolator, The",2016,70.0,Australia,3.75,Criollo,Venezuela,0,pink
+1478,"Smooth Chocolator, The",2016,70.0,Australia,4.0,Criollo,Ecuador,0,pink
+1479,"Smooth Chocolator, The",2016,70.0,Australia,3.75,Unknown,Belize,0,pink
+1480,"Smooth Chocolator, The",2016,70.0,Australia,3.0,Trinitario,Vietnam,1,purple
+1481,"Smooth Chocolator, The",2016,67.0,Australia,3.75,Unknown,Australia,0,pink
+1482,"Smooth Chocolator, The",2016,70.0,Australia,3.25,Unknown,Guatemala,0,pink
+1483,"Smooth Chocolator, The",2015,65.0,Australia,3.25,Trinitario,Madagascar,0,pink
+1484,"Smooth Chocolator, The",2015,70.0,Australia,3.5,Trinitario,Madagascar,0,pink
+1485,"Smooth Chocolator, The",2015,67.0,Australia,3.75,Unknown,Tanzania,0,pink
+1486,"Smooth Chocolator, The",2015,70.0,Australia,3.75,Trinitario,Trinidad,0,pink
+1487,"Smooth Chocolator, The",2015,72.0,Australia,4.0,Unknown,Ecuador,0,pink
+1488,"Smooth Chocolator, The",2015,72.0,Australia,2.75,Unknown,Bolivia,1,purple
+1489,"Smooth Chocolator, The",2015,65.0,Australia,3.5,Unknown,Papua New Guinea,0,pink
+1490,"Smooth Chocolator, The",2015,67.0,Australia,3.0,Forastero (Nacional),Peru,1,purple
+1491,"Smooth Chocolator, The",2015,70.0,Australia,3.75,Trinitario,Venezuela,0,pink
+1492,Snake & Butterfly,2011,67.0,U.S.A.,1.5,Forastero,Ghana,1,purple
+1493,Snake & Butterfly,2010,68.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+1494,Snake & Butterfly,2010,68.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1495,Sol Cacao,2016,70.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1496,Sol Cacao,2015,72.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+1497,Solkiki,2016,68.0,U.K.,2.75,Forastero (Nacional),Peru,1,purple
+1498,Solkiki,2016,85.0,U.K.,2.75,Unknown,Domincan Republic,2,dark purple
+1499,Solomons Gold,2016,70.0,New Zealand,3.25,Unknown,Solomon Islands,0,pink
+1500,Solomons Gold,2016,75.0,New Zealand,3.25,Unknown,Solomon Islands,0,pink
+1501,Solstice,2014,70.0,U.S.A.,3.0,"Forastero, Trinitario",Uganda,1,purple
+1502,Solstice,2013,70.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+1503,Solstice,2013,70.0,U.S.A.,3.0,Unknown,Venezuela,1,purple
+1504,Solstice,2013,70.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+1505,Solstice,2013,70.0,U.S.A.,3.25,Unknown,Peru,0,pink
+1506,Solstice,2013,70.0,U.S.A.,3.5,Blend,Unknown,0,pink
+1507,Soma,2016,62.0,Canada,3.5,Unknown,Domincan Republic,0,pink
+1508,Soma,2016,70.0,Canada,3.5,Trinitario,Madagascar,0,pink
+1509,Soma,2016,70.0,Canada,3.5,Forastero (Parazinho),Brazil,0,pink
+1510,Soma,2016,75.0,Canada,3.75,Unknown,"Ven.,Ecu.,Peru,Nic.",0,pink
+1511,Soma,2016,70.0,Canada,3.75,Trinitario,Nicaragua,0,pink
+1512,Soma,2016,70.0,Canada,4.0,Trinitario,Vietnam,0,pink
+1513,Soma,2016,70.0,Canada,3.25,Unknown,Ecuador,0,pink
+1514,Soma,2015,70.0,Canada,3.5,Criollo,Venezuela,0,pink
+1515,Soma,2015,75.0,Canada,4.0,Unknown,Venezuela,0,pink
+1516,Soma,2014,70.0,Canada,3.5,Unknown,Nicaragua,0,pink
+1517,Soma,2014,70.0,Canada,3.75,Forastero (Nacional),Peru,0,pink
+1518,Soma,2014,70.0,Canada,3.25,Trinitario,Nicaragua,0,pink
+1519,Soma,2014,80.0,Canada,3.5,Forastero (Nacional),Ecuador,0,pink
+1520,Soma,2014,70.0,Canada,3.75,Forastero (Amelonado),Vanuatu,0,pink
+1521,Soma,2014,70.0,Canada,3.25,Blend,Madagascar & Ecuador,0,pink
+1522,Soma,2013,77.0,Canada,3.75,Trinitario,Dominican Republic,0,pink
+1523,Soma,2013,70.0,Canada,3.25,Criollo,Indonesia,0,pink
+1524,Soma,2013,70.0,Canada,2.75,Criollo,Peru,1,purple
+1525,Soma,2013,70.0,Canada,3.75,Trinitario,Trinidad,0,pink
+1526,Soma,2013,70.0,Canada,3.25,Unknown,Unknown,0,pink
+1527,Soma,2013,70.0,Canada,3.75,Criollo,Venezuela,0,pink
+1528,Soma,2013,88.0,Canada,4.0,Unknown,"Guat., D.R., Peru, Mad., PNG",2,dark purple
+1529,Soma,2013,70.0,Canada,4.0,Criollo,Venezuela,0,pink
+1530,Soma,2013,67.0,Canada,4.0,Unknown,"Peru, Dom. Rep",0,pink
+1531,Soma,2013,70.0,Canada,3.25,Forastero,Venezuela,0,pink
+1532,Soma,2013,70.0,Canada,4.0,Trinitario,Jamaica,0,pink
+1533,Soma,2012,70.0,Canada,3.25,Unknown,Haiti,0,pink
+1534,Soma,2012,70.0,Canada,3.75,Unknown,Hawaii,0,pink
+1535,Soma,2012,70.0,Canada,4.0,Blend,"Dom. Rep., Madagascar",0,pink
+1536,Soma,2012,70.0,Canada,4.0,Blend,"Gre., PNG, Haw., Haiti, Mad",0,pink
+1537,Soma,2012,70.0,Canada,3.5,Trinitario,Guatemala,0,pink
+1538,Soma,2012,70.0,Canada,3.75,Trinitario,Venezuela,0,pink
+1539,Soma,2012,70.0,Canada,3.5,Blend,"Mad., Java, PNG",0,pink
+1540,Soma,2012,85.0,Canada,3.5,Trinitario,Papua New Guinea,2,dark purple
+1541,Soma,2011,70.0,Canada,2.75,Trinitario,Grenada,1,purple
+1542,Soma,2011,70.0,Canada,3.5,Nacional,Bolivia,0,pink
+1543,Soma,2011,64.0,Canada,4.0,Unknown,Peru,0,pink
+1544,Soma,2011,70.0,Canada,4.0,Unknown,"Ven, Bolivia, D.R.",0,pink
+1545,Soma,2011,70.0,Canada,3.75,Forastero,Dominican Republic,0,pink
+1546,Soma,2011,70.0,Canada,3.5,Criollo,Venezuela,0,pink
+1547,Soma,2010,70.0,Canada,3.75,"Trinitario, Nacional","DR, Ecuador, Peru",0,pink
+1548,Soma,2009,70.0,Canada,3.0,Forastero,Dominican Republic,1,purple
+1549,Soma,2009,70.0,Canada,3.5,Forastero,Ghana,0,pink
+1550,Soma,2009,70.0,Canada,3.0,Trinitario,Dominican Republic,1,purple
+1551,Soma,2009,70.0,Canada,3.5,Trinitario,Papua New Guinea,0,pink
+1552,Soma,2009,70.0,Canada,3.75,Criollo,Madagascar,0,pink
+1553,Soma,2009,70.0,Canada,3.75,Criollo,Venezuela,0,pink
+1554,Somerville,2014,70.0,U.S.A.,3.25,Unknown,Nicaragua,0,pink
+1555,Somerville,2014,70.0,U.S.A.,3.5,Unknown,Hawaii,0,pink
+1556,Soul,2017,70.0,Canada,3.25,Unknown,Dominican Republic,0,pink
+1557,Soul,2017,70.0,Canada,3.5,Unknown,Madagascar,0,pink
+1558,Soul,2017,75.0,Canada,3.5,Unknown,Venezuela,0,pink
+1559,Soul,2017,75.0,Canada,3.25,Unknown,Ecuador,0,pink
+1560,Soul,2017,77.0,Canada,3.25,Unknown,Papua New Guinea,0,pink
+1561,Soul,2017,80.0,Canada,3.5,Unknown,Tanzania,0,pink
+1562,Spagnvola,2012,70.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1563,Spagnvola,2012,80.0,U.S.A.,3.0,Unknown,Dominican Republic,2,dark purple
+1564,Spagnvola,2012,75.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+1565,Spencer,2017,70.0,U.S.A.,3.75,Unknown,Dominican Republic,0,pink
+1566,Spencer,2017,70.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1567,Spencer,2017,70.0,U.S.A.,2.75,Unknown,Peru,1,purple
+1568,Spencer,2016,70.0,Australia,3.5,Unknown,Domincan Republic,0,pink
+1569,Spencer,2016,70.0,Australia,3.75,Unknown,Ecuador,0,pink
+1570,Spencer,2016,70.0,Australia,3.75,Unknown,Madagascar,0,pink
+1571,Spencer,2014,72.0,Australia,2.75,Trinitario,Vanuatu,1,purple
+1572,Sprungli (Felchlin),2013,70.0,Switzerland,3.0,Criollo,Bolivia,1,purple
+1573,SRSLY,2013,70.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1574,SRSLY,2013,84.0,U.S.A.,2.25,Unknown,Dominican Republic,2,dark purple
+1575,Starchild,2015,70.0,U.S.A.,3.0,Forastero (Nacional),Ecuador,1,purple
+1576,Starchild,2015,70.0,U.S.A.,3.0,Unknown,Domincan Republic,1,purple
+1577,Starchild,2015,70.0,U.S.A.,3.0,Unknown,Guatemala,1,purple
+1578,Starchild,2015,70.0,U.S.A.,3.0,Trinitario (Amelonado),Nicaragua,1,purple
+1579,Starchild,2015,70.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+1580,Stella (aka Bernrain),2012,68.0,Switzerland,2.75,Trinitario,Brazil,1,purple
+1581,Stella (aka Bernrain),2011,72.0,Switzerland,3.25,Unknown,India,0,pink
+1582,Stone Grindz,2014,84.0,U.S.A.,3.5,Unknown,Ecuador,2,dark purple
+1583,Stone Grindz,2014,70.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1584,StRita Supreme,2012,65.0,U.S.A.,2.5,Unknown,Philippines,1,purple
+1585,StRita Supreme,2012,70.0,U.S.A.,2.5,Unknown,Philippines,1,purple
+1586,StRita Supreme,2012,75.0,U.S.A.,2.75,Unknown,Philippines,1,purple
+1587,Sublime Origins,2013,67.0,U.S.A.,2.75,Trinitario,Madagascar,1,purple
+1588,Sublime Origins,2013,78.0,U.S.A.,3.25,Trinitario,Belize,0,pink
+1589,Summerbird,2016,61.0,Denmark,2.5,"Criollo, Trinitario",Peru,1,purple
+1590,Summerbird,2016,71.0,Denmark,3.0,"Criollo, Trinitario",Peru,1,purple
+1591,Suruca Chocolate,2016,70.0,Venezuela,2.75,Unknown,Venezuela,1,purple
+1592,Suruca Chocolate,2016,60.0,Venezuela,3.0,Unknown,Venezuela,1,purple
+1593,Svenska Kakaobolaget,2015,70.0,Sweden,2.75,"Criollo, Trinitario",Sri Lanka,1,purple
+1594,Szanto Tibor,2015,70.0,Hungary,3.25,Unknown,Ecuador,0,pink
+1595,Szanto Tibor,2015,88.0,Hungary,3.25,Trinitario,Cuba,2,dark purple
+1596,Szanto Tibor,2015,70.0,Hungary,3.25,Trinitario,Madagascar,0,pink
+1597,Szanto Tibor,2015,70.0,Hungary,3.75,Forastero (Nacional),Ecuador,0,pink
+1598,Szanto Tibor,2015,70.0,Hungary,3.25,Trinitario,Vietnam,0,pink
+1599,Szanto Tibor,2015,70.0,Hungary,3.5,Forastero (Parazinho),Brazil,0,pink
+1600,Szanto Tibor,2014,70.0,Hungary,3.5,Criollo,Venezuela,0,pink
+1601,Szanto Tibor,2014,70.0,Hungary,3.75,Trinitario,Cuba,0,pink
+1602,Szanto Tibor,2013,70.0,Hungary,3.5,Criollo,Madagascar,0,pink
+1603,Szanto Tibor,2013,70.0,Hungary,3.5,Criollo,Madagascar,0,pink
+1604,Szanto Tibor,2013,70.0,Hungary,3.25,Unknown,Nicaragua,0,pink
+1605,Szanto Tibor,2012,70.0,Hungary,3.25,Unknown,Dominican Republic,0,pink
+1606,Szanto Tibor,2012,70.0,Hungary,3.25,Unknown,Madagascar,0,pink
+1607,Szanto Tibor,2012,70.0,Hungary,3.75,Unknown,Peru,0,pink
+1608,Szanto Tibor,2011,70.0,Hungary,3.0,Unknown,Venezuela,1,purple
+1609,Tabal,2013,70.0,U.S.A.,2.75,Unknown,Costa Rica,1,purple
+1610,Tabal,2013,70.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+1611,Tabal,2013,70.0,U.S.A.,2.5,Unknown,Mexico,1,purple
+1612,Tabal,2013,70.0,U.S.A.,3.0,Unknown,Peru,1,purple
+1613,Tablette (aka Vanillabeans),2015,70.0,Japan,3.0,Unknown,Colombia,1,purple
+1614,Tablette (aka Vanillabeans),2015,62.0,Japan,3.25,Unknown,Papua New Guinea,0,pink
+1615,Tablette (aka Vanillabeans),2015,60.0,Japan,3.25,Trinitario,Vietnam,0,pink
+1616,Tablette (aka Vanillabeans),2015,77.0,Japan,2.75,Trinitario,Trinidad,1,purple
+1617,Tan Ban Skrati,2016,70.0,Suriname,3.25,Trinitario,Suriname,0,pink
+1618,Taza,2014,68.0,U.S.A.,3.0,Trinitario,Belize,1,purple
+1619,Taza,2011,87.0,U.S.A.,3.25,Unknown,Bolivia,2,dark purple
+1620,Taza,2009,75.0,U.S.A.,2.75,Unknown,Mexico,1,purple
+1621,Taza,2007,70.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1622,TCHO,2016,62.0,U.S.A.,2.0,Forastero,West Africa,1,purple
+1623,TCHO,2012,99.0,U.S.A.,3.25,Unknown,"Peru, Ecuador",2,dark purple
+1624,TCHO,2009,60.0,U.S.A.,2.75,Unknown,Unknown,1,purple
+1625,TCHO,2009,68.0,U.S.A.,3.0,Unknown,Unknown,1,purple
+1626,TCHO,2008,70.0,U.S.A.,2.5,Forastero,Ghana,1,purple
+1627,TCHO,2008,70.0,U.S.A.,2.5,Unknown,Peru,1,purple
+1628,TCHO,2008,70.0,U.S.A.,2.75,Unknown,Madagascar,1,purple
+1629,TCHO,2008,70.0,U.S.A.,2.5,Unknown,Peru,1,purple
+1630,Tejas,2012,70.0,U.S.A.,2.75,Unknown,Madagascar,1,purple
+1631,Tejas,2012,70.0,U.S.A.,3.0,Blend,"Ecuador, Mad., PNG",1,purple
+1632,Tejas,2012,70.0,U.S.A.,3.0,Unknown,Papua New Guinea,1,purple
+1633,Tejas,2012,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+1634,Tejas,2012,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1635,Tejas,2012,70.0,U.S.A.,2.0,Unknown,Peru,1,purple
+1636,Tejas,2012,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1637,Tejas,2012,70.0,U.S.A.,2.75,Unknown,Bolivia,1,purple
+1638,Tejas,2012,70.0,U.S.A.,3.0,Unknown,Madagascar,1,purple
+1639,Tejas,2012,70.0,U.S.A.,3.25,Unknown,Mexico,0,pink
+1640,Tejas,2012,70.0,U.S.A.,2.75,Unknown,Brazil,1,purple
+1641,Tejas,2012,80.0,U.S.A.,3.0,Unknown,Venezuela,2,dark purple
+1642,Tejas,2012,67.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+1643,Tejas,2012,70.0,U.S.A.,3.5,Forastero (Parazinho),Brazil,0,pink
+1644,Terroir,2015,70.0,U.S.A.,2.75,Unknown,Peru,1,purple
+1645,Terroir,2015,70.0,U.S.A.,3.75,Trinitario,Belize,0,pink
+1646,Terroir,2015,70.0,U.S.A.,3.75,Trinitario,Madagascar,0,pink
+1647,Terroir,2015,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1648,Terroir,2015,70.0,U.S.A.,3.5,Unknown,Domincan Republic,0,pink
+1649,Terroir,2015,70.0,U.S.A.,3.75,Trinitario,Guatemala,0,pink
+1650,Terroir,2014,77.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1651,Terroir,2014,67.0,U.S.A.,3.75,Trinitario,Madagascar,0,pink
+1652,Terroir,2014,73.0,U.S.A.,3.75,Forastero,Uganda,0,pink
+1653,The Barn,2015,70.0,Sweden,3.0,Unknown,Peru,1,purple
+1654,Theo,2012,65.0,U.S.A.,3.25,Forastero,Congo,0,pink
+1655,Theo,2007,65.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+1656,Theo,2007,75.0,U.S.A.,2.5,Unknown,Ivory Coast,1,purple
+1657,Theo,2007,84.0,U.S.A.,3.0,Forastero,Ghana,2,dark purple
+1658,Theo,2007,91.0,U.S.A.,2.0,Blend,Venezuela,2,dark purple
+1659,Theo,2007,75.0,U.S.A.,3.0,Blend,"Ghana, Panama, Ecuador",1,purple
+1660,Theobroma,2015,70.0,Japan,3.25,Unknown,Peru,0,pink
+1661,Timo A. Meyer,2016,72.0,Germany,3.75,"Trinitario, TCGA",Belize,0,pink
+1662,To'ak (Ecuatoriana),2014,81.0,Ecuador,3.25,Forastero (Nacional),Ecuador,2,dark purple
+1663,Tobago Estate (Pralus),2012,70.0,France,4.0,Trinitario,Tobago,0,pink
+1664,Tocoti,2012,77.0,U.S.A.,3.0,Criollo,Bolivia,1,purple
+1665,Tocoti,2011,72.0,U.S.A.,2.75,Unknown,Venezuela,1,purple
+1666,Tocoti,2011,74.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1667,Treehouse,2014,72.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1668,Tsara (Cinagra),2011,72.0,Madagascar,3.5,Unknown,Madagascar,0,pink
+1669,twenty-four blackbirds,2015,75.0,U.S.A.,2.75,Unknown,Domincan Republic,1,purple
+1670,twenty-four blackbirds,2015,75.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1671,twenty-four blackbirds,2014,75.0,U.S.A.,3.5,Trinitario,Madagascar,0,pink
+1672,twenty-four blackbirds,2013,68.0,U.S.A.,3.25,Unknown,Dominican Republic,0,pink
+1673,twenty-four blackbirds,2013,75.0,U.S.A.,2.5,Unknown,Bolivia,1,purple
+1674,twenty-four blackbirds,2011,73.0,U.S.A.,2.75,Unknown,Dominican Republic,1,purple
+1675,Two Ravens,2016,60.0,U.S.A.,3.0,Criollo,Peru,1,purple
+1676,Un Dimanche A Paris,2011,63.0,France,3.75,Unknown,Dominican Republic,0,pink
+1677,Undone,2014,74.0,U.S.A.,2.75,Unknown,Nicaragua,1,purple
+1678,Undone,2014,70.0,U.S.A.,3.0,Unknown,Dominican Republic,1,purple
+1679,Upchurch,2016,72.0,U.S.A.,3.0,Trinitario,Madagascar,1,purple
+1680,Upchurch,2016,72.0,U.S.A.,3.25,Unknown,Tanzania,0,pink
+1681,Urzi,2014,65.0,Italy,3.25,Trinitario,Venezuela,0,pink
+1682,Valrhona,2015,63.0,France,4.0,Unknown,Peru,0,pink
+1683,Valrhona,2013,70.0,France,3.5,Unknown,Unknown,0,pink
+1684,Valrhona,2013,64.0,France,3.5,Unknown,Dominican Republic,0,pink
+1685,Valrhona,2012,69.0,France,4.0,Unknown,Venezuela,0,pink
+1686,Valrhona,2011,56.0,France,3.25,Unknown,Unknown,0,pink
+1687,Valrhona,2011,64.0,France,4.0,Criollo,Venezuela,0,pink
+1688,Valrhona,2009,64.0,France,3.75,Unknown,Dominican Republic,0,pink
+1689,Valrhona,2009,66.0,France,3.75,Unknown,Ecuador,0,pink
+1690,Valrhona,2009,68.0,France,3.5,Forastero,Ghana,0,pink
+1691,Valrhona,2007,72.0,France,3.0,Blend,"Venezuela, Carribean",1,purple
+1692,Valrhona,2007,65.0,France,3.75,Trinitario,Venezuela,0,pink
+1693,Valrhona,2007,64.0,France,4.0,"Criollo, Trinitario",Madagascar,0,pink
+1694,Valrhona,2007,85.0,France,1.5,Unknown,Unknown,2,dark purple
+1695,Valrhona,2007,85.0,France,2.5,Forastero,West Africa,2,dark purple
+1696,Valrhona,2007,71.0,France,2.75,Forastero,West Africa,1,purple
+1697,Valrhona,2007,64.0,France,3.25,Criollo (Porcelana),Venezuela,0,pink
+1698,Valrhona,2006,66.0,France,3.0,Trinitario,Carribean,1,purple
+1699,Valrhona,2006,70.0,France,4.0,"Criollo, Trinitario",South America,0,pink
+1700,Valrhona,2006,64.0,France,2.5,Trinitario,Trinidad,1,purple
+1701,Valrhona,2006,64.0,France,3.0,Criollo (Porcelana),Venezuela,1,purple
+1702,Valrhona,2006,64.0,France,3.5,Trinitario,Madagascar,0,pink
+1703,Vanleer (Barry Callebaut),2012,72.0,U.S.A.,2.5,Forastero,Ghana,1,purple
+1704,Vanleer (Barry Callebaut),2012,65.0,U.S.A.,2.75,Forastero,Ghana,1,purple
+1705,Vao Vao (Chocolaterie Robert),2009,72.0,Madagascar,2.75,Trinitario,Madagascar,1,purple
+1706,Vao Vao (Chocolaterie Robert),2009,76.0,Madagascar,2.75,Trinitario,Madagascar,1,purple
+1707,Vao Vao (Chocolaterie Robert),2009,80.0,Madagascar,2.75,Trinitario,Madagascar,2,dark purple
+1708,Vao Vao (Chocolaterie Robert),2009,70.0,Madagascar,3.0,Trinitario,Madagascar,1,purple
+1709,Vao Vao (Chocolaterie Robert),2009,68.0,Madagascar,3.0,Trinitario,Madagascar,1,purple
+1710,Vao Vao (Chocolaterie Robert),2009,64.0,Madagascar,3.25,Trinitario,Madagascar,0,pink
+1711,Vicuna,2015,70.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+1712,Vicuna,2015,70.0,U.S.A.,3.25,Unknown,Bolivia,0,pink
+1713,Videri,2014,90.0,U.S.A.,3.25,Unknown,Dominican Republic,2,dark purple
+1714,Videri,2014,75.0,U.S.A.,3.5,Trinitario,Trinidad,0,pink
+1715,Videri,2014,75.0,U.S.A.,3.5,Unknown,Ecuador,0,pink
+1716,Videri,2013,90.0,U.S.A.,3.75,Unknown,Central and S. America,2,dark purple
+1717,Videri,2012,70.0,U.S.A.,3.25,Unknown,Central and S. America,0,pink
+1718,Vietcacao (A. Morin),2012,70.0,France,3.5,Trinitario,Vietnam,0,pink
+1719,Vintage Plantations,2014,75.0,U.S.A.,3.0,Unknown,Peru,1,purple
+1720,Vintage Plantations (Tulicorp),2007,100.0,U.S.A.,2.0,Forastero (Arriba),Ecuador,2,dark purple
+1721,Vintage Plantations (Tulicorp),2007,90.0,U.S.A.,2.0,Forastero (Arriba),Ecuador,2,dark purple
+1722,Vintage Plantations (Tulicorp),2007,75.0,U.S.A.,3.0,Forastero (Arriba),Ecuador,1,purple
+1723,Vintage Plantations (Tulicorp),2007,65.0,U.S.A.,3.0,Forastero (Arriba),Ecuador,1,purple
+1724,Violet Sky,2015,77.0,U.S.A.,2.75,Trinitario,Madagascar,1,purple
+1725,Violet Sky,2015,77.0,U.S.A.,3.0,"Criollo, Trinitario",Belize,1,purple
+1726,Violet Sky,2015,77.0,U.S.A.,3.0,Criollo,Venezuela,1,purple
+1727,Violet Sky,2015,77.0,U.S.A.,3.25,"Criollo, Trinitario",Peru,0,pink
+1728,Violet Sky,2015,77.0,U.S.A.,2.75,Trinitario,Guatemala,1,purple
+1729,Vivra,2016,70.0,U.S.A.,2.5,Unknown,Peru,1,purple
+1730,Vivra,2016,70.0,U.S.A.,2.5,Unknown,Venezuela,1,purple
+1731,Vivra,2016,70.0,U.S.A.,3.0,Unknown,Domincan Republic,1,purple
+1732,Wellington Chocolate Factory,2016,70.0,New Zealand,3.5,Trinitario,Dominican Republic,0,pink
+1733,Wellington Chocolate Factory,2016,70.0,New Zealand,3.5,Unknown,Peru,0,pink
+1734,Whittakers,2011,72.0,New Zealand,2.5,Forastero,Ghana,1,purple
+1735,Wilkie's Organic,2013,75.0,Ireland,2.5,Criollo,Peru,1,purple
+1736,Wilkie's Organic,2013,89.0,Ireland,2.75,Criollo,Peru,2,dark purple
+1737,Wilkie's Organic,2013,75.0,Ireland,3.25,Criollo,Peru,0,pink
+1738,Wilkie's Organic,2013,75.0,Ireland,2.75,Criollo,Peru,1,purple
+1739,Willie's Cacao,2016,70.0,U.K.,4.0,Unknown,Colombia,0,pink
+1740,Willie's Cacao,2014,88.0,U.K.,3.0,Trinitario,Colombia,2,dark purple
+1741,Willie's Cacao,2013,100.0,U.K.,2.25,Unknown,Indonesia,2,dark purple
+1742,Willie's Cacao,2010,71.0,U.K.,3.0,Trinitario,Madagascar,1,purple
+1743,Willie's Cacao,2010,72.0,U.K.,3.5,Unknown,Venezuela,0,pink
+1744,Willie's Cacao,2010,69.0,U.K.,3.75,Unknown,Indonesia,0,pink
+1745,Willie's Cacao,2009,70.0,U.K.,3.0,Unknown,Peru,1,purple
+1746,Willie's Cacao,2009,72.0,U.K.,3.25,Trinitario,Venezuela,0,pink
+1747,Wm,2016,74.0,U.S.A.,3.0,Criollo,Venezuela,1,purple
+1748,Wm,2016,76.0,U.S.A.,3.5,Unknown,Bolivia,0,pink
+1749,Wm,2016,75.0,U.S.A.,3.75,Unknown,Ghana,0,pink
+1750,Woodblock,2014,70.0,U.S.A.,3.0,Forastero (Nacional),Peru,1,purple
+1751,Woodblock,2013,70.0,U.S.A.,3.25,Unknown,Ecuador,0,pink
+1752,Woodblock,2013,70.0,U.S.A.,3.5,Trinitario,Trinidad,0,pink
+1753,Woodblock,2012,70.0,U.S.A.,2.5,Unknown,Ecuador,1,purple
+1754,Woodblock,2012,70.0,U.S.A.,3.0,Unknown,Costa Rica,1,purple
+1755,Woodblock,2012,70.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+1756,Woodblock,2011,70.0,U.S.A.,4.0,Unknown,Venezuela,0,pink
+1757,Woodblock,2011,70.0,U.S.A.,3.5,Unknown,Dominican Republic,0,pink
+1758,Xocolat,2013,66.0,Domincan Republic,3.0,Unknown,Dominican Republic,1,purple
+1759,Xocolla,2017,70.0,U.S.A.,2.75,Unknown,Madagascar,1,purple
+1760,Xocolla,2017,70.0,U.S.A.,2.5,Unknown,Dominican Republic,1,purple
+1761,Zak's,2015,70.0,U.S.A.,3.0,Unknown,Papua New Guinea,1,purple
+1762,Zak's,2015,70.0,U.S.A.,3.25,Unknown,Domincan Republic,0,pink
+1763,Zak's,2015,70.0,U.S.A.,3.25,Trinitario,Madagascar,0,pink
+1764,Zak's,2015,70.0,U.S.A.,3.25,Unknown,Peru,0,pink
+1765,Zak's,2015,70.0,U.S.A.,3.5,Trinitario,Belize,0,pink
+1766,Zak's,2015,60.0,U.S.A.,3.0,Unknown,Unknown,1,purple
+1767,Zart Pralinen,2016,70.0,Austria,3.5,"Criollo, Trinitario",Madagascar,0,pink
+1768,Zart Pralinen,2016,70.0,Austria,2.75,Nacional (Arriba),Ecuador,1,purple
+1769,Zart Pralinen,2016,85.0,Austria,2.75,Trinitario,Trinidad,2,dark purple
+1770,Zart Pralinen,2016,85.0,Austria,3.0,"Criollo, Trinitario",Tanzania,2,dark purple
+1771,Zart Pralinen,2016,70.0,Austria,3.5,"Criollo, Trinitario",Tanzania,0,pink
+1772,Zart Pralinen,2016,78.0,Austria,3.5,Trinitario,Trinidad,0,pink
+1773,Zokoko,2016,78.0,Australia,3.75,Unknown,Solomon Islands,0,pink
+1774,Zokoko,2016,65.0,Australia,3.25,Unknown,Unknown,0,pink
+1775,Zokoko,2011,68.0,Australia,3.5,Unknown,Bolivia,0,pink
+1776,Zokoko,2011,66.0,Australia,3.5,Trinitario,Papua New Guinea,0,pink
+1777,Zokoko,2011,72.0,Australia,3.75,Unknown,Bolivia,0,pink
+1778,Zotter,2014,80.0,Austria,2.75,Unknown,Unknown,2,dark purple
+1779,Zotter,2012,72.0,Austria,3.5,Unknown,Panama,0,pink
+1780,Zotter,2012,65.0,Austria,3.5,Unknown,Unknown,0,pink
+1781,Zotter,2012,70.0,Austria,3.0,Criollo (Amarru),Peru,1,purple
+1782,Zotter,2012,70.0,Austria,3.5,Criollo (Amarru),Peru,0,pink
+1783,Zotter,2012,62.0,Austria,3.75,Unknown,Dominican Republic,0,pink
+1784,Zotter,2012,75.0,Austria,3.0,Forastero (Nacional),Ecuador,1,purple
+1785,Zotter,2012,75.0,Austria,3.0,"Criollo, Trinitario",Papua New Guinea,1,purple
+1786,Zotter,2012,90.0,Austria,3.25,Unknown,Bolivia,2,dark purple
+1787,Zotter,2012,70.0,Austria,3.75,Unknown,Dominican Republic,0,pink
+1788,Zotter,2012,68.0,Austria,3.25,Forastero,Congo,0,pink
+1789,Zotter,2012,58.0,Austria,3.5,Unknown,Unknown,0,pink
+1790,Zotter,2011,70.0,Austria,3.75,Unknown,Peru,0,pink
+1791,Zotter,2011,65.0,Austria,3.0,Forastero,Congo,1,purple
+1792,Zotter,2011,65.0,Austria,3.5,Forastero,India,0,pink
+1793,Zotter,2011,62.0,Austria,3.25,Unknown,India,0,pink
+1794,Zotter,2010,65.0,Austria,3.0,Unknown,Brazil,1,purple
