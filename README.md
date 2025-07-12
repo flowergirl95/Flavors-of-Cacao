@@ -24,18 +24,18 @@ Chocolate Bar Ratings: This dataset contains expert ratings of over 1,700 indivi
  - Broad Bean Origin: The broader geographical region of the bean source.
 
 For Exercise 6.4 Machine Learning : Regression 
- Data set I use : Building the Coffee Quality Institute Database These data contain reviews of 1312 arabica and 28 robusta coffee beans from the Coffee Quality Institute's trained reviewers.
-Source: These data were collected from the Coffee Quality Institute's review pages in January 2018.
-I sued the cleaned data from : https://github.com/jldbc/coffee-quality-database?tab=readme-ov-file
+ - Data set I use : Building the Coffee Quality Institute Database These data contain reviews of 1312 arabica and 28 robusta coffee beans from the Coffee Quality Institute's trained reviewers.
+- Source: These data were collected from the Coffee Quality Institute's review pages in January 2018.
+- I sued the cleaned data from : https://github.com/jldbc/coffee-quality-database?tab=readme-ov-file
 
 For exercise 6.6 Surcing and Analyzing Time Series.
-Source: : https://data.nasdaq.com/databases/JODI
-Publisher: Quandl via Nasdaq Data Link
-Coverage: Over 120 countries, monthly frequency from January 2002 onward
-Product: Crude Oil
-Flow: Production
-Units: Thousand Barrels per Day (kb/d)
-This data is sourced from the Joint Organisations Data Initiative (JODI), contributed by member organizations including OPEC, IEA, EUROSTAT, APEC, GECF, UNSD, and others. It covers more than 90% of the world’s energy supply and demand.
+- Source: : https://data.nasdaq.com/databases/JODI
+- Publisher: Quandl via Nasdaq Data Link
+- Coverage: Over 120 countries, monthly frequency from January 2002 onward
+- Product: Crude Oil
+- Flow: Production
+- Units: Thousand Barrels per Day (kb/d)
+- This data is sourced from the Joint Organisations Data Initiative (JODI), contributed by member organizations including OPEC, IEA, EUROSTAT, APEC, GECF, UNSD, and others. It covers more than 90% of the world’s energy supply and demand.
 
 ## Analysis Criteria:
 - Exploratory Analysis.
