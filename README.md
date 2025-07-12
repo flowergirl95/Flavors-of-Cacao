@@ -26,10 +26,10 @@ Chocolate Bar Ratings: This dataset contains expert ratings of over 1,700 indivi
 For Exercise 6.4 Machine Learning : Regression 
  Data set I use : Building the Coffee Quality Institute Database These data contain reviews of 1312 arabica and 28 robusta coffee beans from the Coffee Quality Institute's trained reviewers.
 Source: These data were collected from the Coffee Quality Institute's review pages in January 2018.
-I sued the cleaned data from : ( https://github.com/jldbc/coffee-quality-database?tab=readme-ov-file)
+I sued the cleaned data from : https://github.com/jldbc/coffee-quality-database?tab=readme-ov-file
 
 For exercise 6.6 Surcing and Analyzing Time Series.
-Source: : (JODI Oil World Database)
+Source: : https://data.nasdaq.com/databases/JODI
 Publisher: Quandl via Nasdaq Data Link
 Coverage: Over 120 countries, monthly frequency from January 2002 onward
 Product: Crude Oil
@@ -46,14 +46,14 @@ This data is sourced from the Joint Organisations Data Initiative (JODI), contri
 -  Analysis Narrative and Final Results
 
 ## Project Deliverables
-Exercise 6.1: Sourcing Open Data
-Exercise 6.2: Exploring Relationships
-Exercise 6.3: Geographical Visualizations with Python
-Exercise 6.4: Supervised Machine Learning: Regression Chocolate Bar
-Exercise 6.4: Supervised Machine Learning: Regression: Coffee Quality
-Exercise 6.5: Unsupervised Machine Learning: Clustering
-Exercise 6.6: Sourcing & Analyzing Time Series Data: : JODI Oil World Database
-Exercise 6.7: Creating Data Dashboards:
+- Exercise 6.1: Sourcing Open Data
+- Exercise 6.2: Exploring Relationships
+- Exercise 6.3: Geographical Visualizations with Python
+- Exercise 6.4: Supervised Machine Learning: Regression Chocolate Bar
+- Exercise 6.4: Supervised Machine Learning: Regression: Coffee Quality
+- Exercise 6.5: Unsupervised Machine Learning: Clustering
+- Exercise 6.6: Sourcing & Analyzing Time Series Data: : JODI Oil World Database
+- Exercise 6.7: Creating Data Dashboards:
 (https://public.tableau.com/app/profile/beatriz.acosta1863/viz/FlavorsofCacaoChocolateBars/Story1)
 
 
